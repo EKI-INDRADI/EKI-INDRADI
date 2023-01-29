@@ -2,7 +2,7 @@
 
 "TIME > KNOWLEDGE > MONEY". #2023_3_DIGIT_MOTIVATION
 
-2023 Knowledge Plan :
+## 2023 Knowledge Plan :
 
 :white_check_mark: High Durability Code BE/FE [stil learn]
 
@@ -13,7 +13,7 @@
 :white_large_square:: learn english : (soft skill)
 
 
-2023 Financial Plan :
+## 2023 Financial Plan :
 
 :white_large_square: finished 2023 Knowledge Plan  -> get freelance job -> 70%~100% achievement 3 digit / month
 
@@ -21,7 +21,7 @@
 
 
 
-reference : 
+## reference : 
 
 :link: fiverr.com
 
