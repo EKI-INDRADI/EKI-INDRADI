@@ -8,7 +8,7 @@
 
 :white_large_square: Expert Frontend (CSS,SASS,TAILWIND) -> Fullstack Engineer
  
-:white_large_square: Kubernetes -> Senior Devops Engineer
+:white_large_square: Expert Kubernetes -> Senior Devops Engineer
 
 :white_large_square: learn english (soft skill)
 
