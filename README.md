@@ -4,7 +4,7 @@
 
 2023 Knowledge Plan :
 
-- High Durability Code BE/FE [stil learn]
+:white_medium_square High Durability Code BE/FE [stil learn]
 
 - Expert Frontend (CSS,SASS,TAILWIND) -> Fullstack Engineer [stil learn]
  
