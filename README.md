@@ -4,7 +4,7 @@
 
 ## 2023 Knowledge Plan :
 
-:white_check_mark: High Durability Code BE/FE [stil learn]
+:white_large_square: High Durability Code BE/FE [stil learn]
 
 :white_large_square: Expert Frontend (CSS,SASS,TAILWIND) -> Fullstack Engineer [stil learn]
  
