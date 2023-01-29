@@ -10,7 +10,7 @@
  
 :white_large_square: Kubernetes -> Senior Devops Engineer [stil learn]
 
-:white_large_square:: learn english : (soft skill)
+:white_large_square: learn english (soft skill)
 
 
 ## 2023 Financial Plan :
