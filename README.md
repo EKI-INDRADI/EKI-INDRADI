@@ -4,7 +4,7 @@
 
 ## 2023 Knowledge Plan :
 
-:white_check_mark: High Durability Code BE/FE
+:white_check_mark: High Durability Code - Validation (Nested validation Array/Object/Schema) & Unit Test
 
 :white_large_square: Expert Frontend (CSS,SASS,TAILWIND) -> Fullstack Engineer
  
