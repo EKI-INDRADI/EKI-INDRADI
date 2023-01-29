@@ -4,11 +4,11 @@
 
 ## 2023 Knowledge Plan :
 
-:white_large_square: High Durability Code BE/FE [stil learn]
+:white_large_square: High Durability Code BE/FE
 
-:white_large_square: Expert Frontend (CSS,SASS,TAILWIND) -> Fullstack Engineer [stil learn]
+:white_large_square: Expert Frontend (CSS,SASS,TAILWIND) -> Fullstack Engineer
  
-:white_large_square: Kubernetes -> Senior Devops Engineer [stil learn]
+:white_large_square: Kubernetes -> Senior Devops Engineer
 
 :white_large_square: learn english (soft skill)
 
