@@ -6,16 +6,16 @@
 
 :white_check_mark: High Durability Code BE/FE [stil learn]
 
-:white_medium_square: Expert Frontend (CSS,SASS,TAILWIND) -> Fullstack Engineer [stil learn]
+:white_large_square: Expert Frontend (CSS,SASS,TAILWIND) -> Fullstack Engineer [stil learn]
  
-:white_medium_square: Kubernetes -> Senior Devops Engineer [stil learn]
+:white_large_square: Kubernetes -> Senior Devops Engineer [stil learn]
 
-:white_medium_square: learn english : (soft skill)
+:white_large_square:: learn english : (soft skill)
 
 
 2023 Financial Plan :
 
-:white_medium_square: finished 2023 Knowledge Plan  -> get freelance job -> 70%~100% achievement 3 digit / month
+:white_large_square: finished 2023 Knowledge Plan  -> get freelance job -> 70%~100% achievement 3 digit / month
 
 
 
