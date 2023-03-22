@@ -8,11 +8,11 @@
 
 :white_large_square: Expert Frontend (CSS,SASS,TAILWIND) , SVELTE , SVELTE KIT , SINGLE-SPA MICRO FRONTEND -> Fullstack Engineer [INPROGGRESS]
  
-:white_large_square: ~~Expert Kubernetes -> Senior Devops Engineer~~ [PENDING]
+:white_large_square: ~~Expert Kubernetes -> Senior Devops Engineer~~ [PENDING] (because expensive for rnd)
 
 :white_large_square: ~~learn english (soft skill)~~ [PENDING]
 
-:white_large_square: learning AI Stable Diffusion (Lora, Textual Inversions, ControlNet, Koyha SS) [DONE]
+:white_large_square: learning AI Stable Diffusion (Lora, Textual Inversions, ControlNet, Koyha SS) [DONE] (expensive for rnd but, i have many gpu gaming)
 
 :white_large_square: learning AI Stable Diffusion Backend API (SCRIPT, TAG, ETC) many thanks AUTOMATIC1111 [DONE]
 
