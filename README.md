@@ -12,7 +12,7 @@
 
 :white_large_square: ~~learn english (soft skill)~~ [PENDING]
 
-:white_large_square: learning AI Stable Diffusion (Lora, Textual Inversions, ControlNet, Koyha SS) [DONE] (expensive for rnd but, i have many gpu gaming)
+:white_large_square: learning AI Stable Diffusion (Lora, Textual Inversions, ControlNet, Koyha SS, LyCORIS) [DONE] (expensive for rnd but, i have many gpu gaming/mining)
 
 :white_large_square: learning AI Stable Diffusion Backend API (SCRIPT, TAG, ETC) many thanks AUTOMATIC1111 [DONE]
 
