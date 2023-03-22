@@ -24,7 +24,7 @@
 
 :white_large_square: build server AI [DONE]
 
-:white_large_square: make website for autogenerate AI media [INPROGGRESS]
+:white_large_square: make website for autogenerate AI media (with payment international integration like patreon (paypal), tether xrp cardano (cryptocurrency), etc) [INPROGGRESS]
 
 
 ## Reference : 
