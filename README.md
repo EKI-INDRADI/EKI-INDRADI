@@ -43,8 +43,8 @@
 
 :link: ~~projects.co.id~~ [PENDING]
 
-:link: https://github.com/camenduru
+:link: https://github.com/camenduru [INPROGGRESS]
 
-:link: https://github.com/AUTOMATIC1111
+:link: https://github.com/AUTOMATIC1111 [INPROGGRESS]
 
-:link: https://www.udemy.com/course/svelte-and-sveltekit
+:link: https://www.udemy.com/course/svelte-and-sveltekit [INPROGGRESS]
