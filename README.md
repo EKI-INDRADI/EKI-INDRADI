@@ -12,9 +12,11 @@
 
 :white_large_square: ~~learn english (soft skill)~~ [PENDING]
 
-:white_large_square: learning AI Stable Diffusion API (Lora, Textual Inversions, ControlNet, Koyha SS) [DONE]
+:white_large_square: learning AI Stable Diffusion (Lora, Textual Inversions, ControlNet, Koyha SS) [DONE]
 
-:white_large_square: learning AI (Tensorflow, DPM++ SDE, Cuda Developer, etc) [INPROGGRESS]
+:white_large_square: learning AI Stable Diffusion Backend API (SCRIPT, TAG, ETC) many thanks AUTOMATIC1111 [DONE]
+
+:white_large_square: learning AI (Tensorflow, DPM++ SDE, Cuda Developer, RunwayML, Stability AI, etc) [INPROGGRESS]
 
 ## 2023 Target Plan :
 
