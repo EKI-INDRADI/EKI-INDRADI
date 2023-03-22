@@ -18,7 +18,7 @@
 
 ## 2023 Target Plan :
 
-:white_large_square: ~~finished 2023 Knowledge Plan  -> get freelance job -> 70%~100% achievement 3 digit / month~~ [PENDING]
+:white_large_square: ~~ finished 2023 Knowledge Plan  -> get freelance job -> 70%~100% achievement 3 digit / month ~~ [PENDING]
 
 :white_large_square: build server AI [DONE]
 
@@ -44,3 +44,5 @@
 :link: https://github.com/camenduru
 
 :link: https://github.com/AUTOMATIC1111
+
+:link: https://www.udemy.com/course/svelte-and-sveltekit
