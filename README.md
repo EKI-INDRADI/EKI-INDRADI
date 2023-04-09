@@ -12,19 +12,25 @@
 
 :white_large_square: ~~learn english (soft skill)~~ [PENDING]
 
-:white_large_square: learning AI Stable Diffusion (Lora, Textual Inversions, ControlNet, Koyha SS, LyCORIS) [DONE] (expensive for rnd but, i have many gpu gaming/mining)
+:white_large_square: learning AI Stable Diffusion (Lora, Textual Inversions, ControlNet, Koyha SS, LyCORIS, LoCon) [DONE] 
 
-:white_large_square: learning AI Stable Diffusion Backend API (SCRIPT, TAG, ETC) many thanks AUTOMATIC1111 [DONE]
+:white_large_square: learning AI Chat Vicuna & Alpaca (alternative chat-gpt) install in pc server (offline install) [DONE] 
 
-:white_large_square: learning AI (Tensorflow, DPM++ SDE, Cuda Developer, RunwayML, Stability AI, etc) [INPROGGRESS]
+:white_large_square: learning AI (Tensorflow, Kerras, PyTorch, Cuda Developer) [INPROGGRESS]
 
 ## 2023 Target Plan :
 
 :white_large_square: ~~finished 2023 Knowledge Plan -> get freelance job -> get achievement 3 digit / month~~ [PENDING]
 
-:white_large_square: build server AI [DONE]
+:white_large_square: build server AI (with rtx 3060 12GB x2), 1 for training model/text/audio/media, 1 for generate request [DONE]
 
-:white_large_square: make website for autogenerate AI media (with payment international integration like patreon (paypal), tether xrp cardano (cryptocurrency), etc) [INPROGGRESS]
+:white_large_square: Integration AI Stable Diffusion Backend API (SCRIPT, TAG, ETC) many thanks AUTOMATIC1111 (SUPPORT API INTEGRATION) [INPROGGRESS]
+
+:white_large_square: Integration AI Chat Vicuna & Alpaca Backend API (SUPPORT API INTEGRATION)  [INPROGGRESS]
+
+:white_large_square: Integration AI Audio text to speech indonesia, example : prosa.ai [INPROGGRESS]
+
+:white_large_square: make website for autogenerate AI media/chat/audio (with payment international integration like patreon (paypal), tether xrp cardano (cryptocurrency), etc) [INPROGGRESS]
 
 
 ## Reference : 
