@@ -28,7 +28,7 @@
 
 :white_large_square: Integration AI Chat Vicuna & Alpaca Backend API (SUPPORT API INTEGRATION)  [INPROGGRESS]
 
-:white_large_square: Integration AI Audio text to speech indonesia, example : prosa.ai [INPROGGRESS]
+:white_large_square: Integration AI Audio (text to speech / speech to text) indonesia, example : prosa.ai [INPROGGRESS]
 
 :white_large_square: make website for autogenerate AI media/chat/audio (with payment international integration like patreon (paypal), tether xrp cardano (cryptocurrency), etc) [INPROGGRESS]
 
