@@ -4,21 +4,21 @@
 
 ## 2024 Knowledge Plan :
 
-:white_check_mark: High Durability Code - Validation (Nested validation Array/Object/Schema/Enitity) & Unit Test [DONE] (NestJs API + Auto Validation Class + Unit Test)
+:white_check_mark: Expert Backend - NestJS (Express & Fastify Adapter) - Auto Validation (Nested validation Array/Object/Schema/Enitity) & Unit Test [DONE]
 
-:white_square_button: Expert Frontend (CSS,SASS,TAILWIND) , SVELTE , SVELTE KIT , SINGLE-SPA MICRO FRONTEND -> Fullstack Engineer [INPROGGRESS]
+:white_square_button: Expert Frontend - (CSS,SASS,TAILWIND) , SVELTE , SVELTE KIT , SINGLE-SPA MICRO FRONTEND -> Fullstack Engineer [INPROGGRESS]
  
 :white_large_square: ~~Expert Kubernetes -> Senior Devops Engineer~~ [PENDING]
 
 :white_large_square: ~~learn english (soft skill)~~ [PENDING]
 
-:white_large_square: learning AI Stable Diffusion (Lora, Textual Inversions, ControlNet, Dreamboot, Koyha SS, LyCORIS, LoCon, inpaintAnything, ReActor/Roop, ComfyUi) [DONE] 
+:white_large_square: learning AI Stable Diffusion - (Lora, Textual Inversions, ControlNet, Dreamboot, Koyha SS, LyCORIS, LoCon, inpaintAnything, ReActor/Roop, ComfyUi) [DONE] 
 
-:white_large_square: learning AI Chat (Vicuna & Alpaca alternative chat-gpt) install in pc server (offline install) [DONE] 
+:white_large_square: learning AI Chat - (Vicuna & Alpaca alternative chat-gpt) install in pc server (offline install) [DONE] 
 
-:white_large_square: learning AI Deepfakes (faceswap,DeepfaceLab,Roop) install in pc server 2023 very fast generate in 30 secs (no more 8 hours) [DONE] 
+:white_large_square: learning AI Deepfakes - (faceswap,DeepfaceLab,Roop) install in pc server 2023 very fast generate in 30 secs (no more 8 hours) [DONE] 
 
-:white_large_square: learning AI (Jupyter Notebook, Tensorflow, Kerras, PyTorch, CUDA, CUDDN) [PENDING]
+:white_large_square: learning AI - (Jupyter Notebook, Tensorflow, Kerras, PyTorch, CUDA, CUDDN) [PENDING]
 
 ## 2024 Target Plan :
 
@@ -48,3 +48,9 @@
 :link: https://github.com/AUTOMATIC1111 [INPROGGRESS]
 
 :link: https://www.udemy.com/course/svelte-and-sveltekit [INPROGGRESS]
+
+:link: https://chat.openai.com [INPROGGRESS]
+
+:link: https://www.youtube.com [INPROGGRESS]
+
+:link: https://www.google.com [INPROGGRESS]
