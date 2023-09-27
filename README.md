@@ -4,13 +4,11 @@
 
 ## 2024 Knowledge Plan :
 
-:white_check_mark: Expert Backend - NestJS (Express & Fastify Adapter) - Auto Validation (Nested validation Array/Object/Schema/Enitity) & Unit Test [DONE]
+:white_check_mark: Expert Backend - NestJS (Express & Fastify Adapter) - Auto Validation (Nested validation Array/Object/Schema/Enitity), Unit Test, Auto Generate Swagger [DONE]
 
-:white_square_button: Expert Frontend - (CSS,SASS,TAILWIND) , SVELTE , SVELTE KIT , SINGLE-SPA MICRO FRONTEND -> Fullstack Engineer [INPROGGRESS]
+:white_square_button: Expert Frontend - (CSS,SASS,TAILWIND), SVELTE, SVELTE KIT, SINGLE-SPA/LUIGI MICRO FRONTEND -> Fullstack Engineer [INPROGGRESS]
  
 :white_large_square: ~~Expert Kubernetes -> Senior Devops Engineer~~ [PENDING]
-
-:white_large_square: ~~learn english (soft skill)~~ [PENDING]
 
 :white_large_square: learning AI Stable Diffusion - (Lora, Textual Inversions, ControlNet, Dreamboot, Koyha SS, LyCORIS, LoCon, inpaintAnything, ReActor/Roop, ComfyUi) [DONE] 
 
@@ -22,7 +20,7 @@
 
 ## 2024 Target Plan :
 
-:white_large_square: ~~finished 2023 Knowledge Plan -> get freelance job -> get achievement 3 digit / month~~ [PENDING]
+:white_large_square: ~~finished 2024 Knowledge Plan -> get freelance job -> get achievement 3 digit / month~~ [PENDING]
 
 :white_large_square: make website for autogenerate AI media/chat/audio (with payment international integration like patreon (paypal), cryptocurrency smart contract, etc) [INPROGGRESS]
 
