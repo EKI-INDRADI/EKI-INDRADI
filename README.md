@@ -17,7 +17,7 @@
 
 :white_large_square: learning AI Deepfakes - (faceswap,DeepfaceLab,Roop) install in pc server 2023 very fast generate in 30 secs (no more 8 hours) [DONE] 
 
-:white_large_square: learning AI - (Jupyter Notebook, Tensorflow, Kerras, PyTorch, CUDA, CUDDN) [PENDING]
+:white_large_square: learning AI - (Jupyter Notebook, Tensorflow, Kerras, PyTorch, CUDA, CUDNN) [PENDING]
 
 ## 2024 Target Plan :
 
