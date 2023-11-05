@@ -11,13 +11,13 @@
  
 :white_large_square: ~~Expert Kubernetes -> Senior Devops Engineer~~ [PENDING]
 
-:white_large_square: learning AI Stable Diffusion - (Lora, Textual Inversions, ControlNet, Dreamboot, Koyha SS, LyCORIS, LoCon, inpaintAnything, ReActor/Roop, ComfyUi) [DONE] 
+:white_check_mark: learning AI Stable Diffusion - (Lora, Textual Inversions, ControlNet, Dreamboot, Koyha SS, LyCORIS, LoCon, inpaintAnything, ReActor/Roop, ComfyUi) [DONE] 
 
-:white_large_square: learning AI Chat - (Vicuna & Alpaca alternative chat-gpt) install in pc server (offline install) [DONE] 
+:white_check_mark: learning AI Chat - (Vicuna & Alpaca alternative chat-gpt) install in pc server (offline install) [DONE] 
 
-:white_large_square: learning AI Deepfakes - (faceswap,DeepfaceLab,Roop) install in pc server 2023 very fast generate in 30 secs (no more 8 hours) [DONE] 
+:white_check_mark: learning AI Deepfakes - (faceswap,DeepfaceLab,Roop) install in pc server 2023 very fast generate in 30 secs (no more 8 hours) [DONE] 
 
-:white_large_square: learning AI - (Jupyter Notebook, Tensorflow, Kerras, PyTorch, CUDA, CUDNN) [PENDING]
+:white_large_square: learning AI - (Jupyter Notebook [DONE], Anaconda [DONE], Tensorflow, Kerras, PyTorch, CUDA, CUDNN) [PENDING]
 
 ## 2024 Target Plan :
 
