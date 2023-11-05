@@ -19,6 +19,8 @@
 
 :white_check_mark: learning AI-PROJECT Video & Image Upscaler - (waifu2x,real-esrgan,esrgan,upscayl,video2x,ncnn-vulkan) [DONE] 
 
+:white_check_mark: learning AI-PROJECT Video add more FPS - (flowframes,framegui) [DONE] 
+
 :white_check_mark: learning AI-PROJECT removeing blur & mosaic from Video & Image - (deep mosaic) [DONE] 
 
 :white_check_mark: learning AI-PROJECT change the voice & lips sync from video (video-retalking) [DONE] 
