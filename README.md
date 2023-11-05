@@ -17,9 +17,9 @@
 
 :white_check_mark: learning AI Deepfakes - (faceswap,DeepfaceLab,Roop) install in pc server 2023 very fast generate in 30 secs [DONE] 
 
-:white_check_mark: learning AI Video & Image Upscaler - (waifu2x,real-esrgan,esrgan) [DONE] 
+:white_check_mark: learning AI Video & Image Upscaler - (waifu2x,real-esrgan,esrgan,upscayl,video2x) [DONE] 
 
-:white_check_mark: learning AI removeing blur & mosaic Video & Image - (deep mosaic) [DONE] 
+:white_check_mark: learning AI removeing blur & mosaic from Video & Image - (deep mosaic) [DONE] 
 
 :white_large_square: learning AI - (Jupyter Notebook [DONE], Anaconda [DONE], Tensorflow, Kerras, PyTorch, CUDA, CUDNN) [PENDING]
 
