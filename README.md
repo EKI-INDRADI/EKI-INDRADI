@@ -11,15 +11,17 @@
  
 :white_large_square: ~~Expert Kubernetes -> Senior Devops Engineer~~ [PENDING]
 
-:white_check_mark: learning AI Stable Diffusion - (Lora, Textual Inversions, ControlNet, Dreamboot, Koyha SS, LyCORIS, LoCon, inpaintAnything, ReActor/Roop, ComfyUi) [DONE] 
+:white_check_mark: learning AI-PROJECT Stable Diffusion - (Lora, Textual Inversions, ControlNet, Dreamboot, Koyha SS, LyCORIS, LoCon, inpaintAnything, ReActor/Roop, ComfyUi) [DONE] 
 
-:white_check_mark: learning AI Chat - (Vicuna & Alpaca alternative chat-gpt) install in pc server (offline install) [DONE] 
+:white_check_mark: learning AI-PROJECT Chat - (Vicuna & Alpaca alternative chat-gpt) install in pc server (offline install) [DONE] 
 
-:white_check_mark: learning AI Deepfakes - (faceswap,DeepfaceLab,Roop) install in pc server 2023 very fast generate in 30 secs [DONE] 
+:white_check_mark: learning AI-PROJECT Deepfakes - (faceswap,DeepfaceLab,Roop) [DONE] 
 
-:white_check_mark: learning AI Video & Image Upscaler - (waifu2x,real-esrgan,esrgan,upscayl,video2x) [DONE] 
+:white_check_mark: learning AI-PROJECT Video & Image Upscaler - (waifu2x,real-esrgan,esrgan,upscayl,video2x,ncnn-vulkan) [DONE] 
 
-:white_check_mark: learning AI removeing blur & mosaic from Video & Image - (deep mosaic) [DONE] 
+:white_check_mark: learning AI-PROJECT removeing blur & mosaic from Video & Image - (deep mosaic) [DONE] 
+
+:white_check_mark: learning AI-PROJECT change the voice & lips sync from video (video-retalking) [DONE] 
 
 :white_large_square: learning AI - (Jupyter Notebook [DONE], Anaconda [DONE], Tensorflow, Kerras, PyTorch, CUDA, CUDNN) [PENDING]
 
