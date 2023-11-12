@@ -46,8 +46,10 @@ BACKEND NODEJS NESTJS<br />
 - [nodejs - nestjs - express adapter (default) - mongodb](https://github.com/EKI-INDRADI/eki-latihan-nestjs-mongodb) | PROJECT - POINT OF SALE<br />
 - [nodejs - nestjs - express adapter (default) - sqlite](https://github.com/EKI-INDRADI/eki-latihan-nestjs-sqlite-portable-file-upload) | PROJECT - FILE UPLOAD<br />
 
-BACKEND PYTHON FLASK<br />
+BACKEND PYTHON<br />
 - [python - basic](https://github.com/EKI-INDRADI/eki-latihan-python/tree/master/latihan_python_basic)<br />
+
+BACKEND PYTHON FLASK<br />
 - [python - flask - mysql](https://github.com/EKI-INDRADI/eki-latihan-python/tree/master/latihan_python_restful_api/python-restful-api-mysql)<br />
 - [python - flask - sqlite](https://github.com/EKI-INDRADI/eki-latihan-python/tree/master/latihan_python_restful_api/python-restful-api-sqlite)<br />
 
