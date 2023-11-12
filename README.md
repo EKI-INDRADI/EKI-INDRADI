@@ -3,8 +3,6 @@
 
 "TIME > KNOWLEDGE > MONEY". #2024_3_DIGIT_MOTIVATION
 
-
-## Old Knowledge Plan :
 ## 2024 Knowledge Plan :
 
 :white_check_mark: Expert Backend - NestJS (Express & Fastify Adapter) - Auto Validation (Nested validation Array/Object/Schema/Enitity), Unit Test, Auto Generate Swagger, Hexagonal Architecture (Multi Database Sql & NoSql with same Schema -> Entity Support, Multi framework ExpressJs & Fastify Adapter), Micro services (Orchestration) Architecture, Micro services (Choreography - RabbitMQ - Exchange - RoutingKey) Architecture [DONE]
