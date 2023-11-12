@@ -3,9 +3,11 @@
 
 "TIME > KNOWLEDGE > MONEY". #2024_3_DIGIT_MOTIVATION
 
+
+## Old Knowledge Plan :
 ## 2024 Knowledge Plan :
 
-:white_check_mark: Expert Backend - NestJS (Express & Fastify Adapter) - Auto Validation (Nested validation Array/Object/Schema/Enitity), Unit Test, Auto Generate Swagger [DONE]
+:white_check_mark: Expert Backend - NestJS (Express & Fastify Adapter) - Auto Validation (Nested validation Array/Object/Schema/Enitity), Unit Test, Auto Generate Swagger, Hexagonal Architecture (Multi Database Sql & NoSql with same Schema -> Entity Support, Multi framework ExpressJs & Fastify Adapter), Micro services (Orchestration) Architecture, Micro services (Choreography - RabbitMQ - Exchange - RoutingKey) Architecture [DONE]
 
 :white_square_button: Expert Frontend - (CSS,SASS,TAILWIND), SVELTE, SVELTE KIT, SINGLE-SPA/LUIGI MICRO FRONTEND -> Fullstack Engineer [INPROGGRESS]
  
@@ -25,7 +27,7 @@
 
 :white_check_mark: learning AI-PROJECT change the voice & lips sync from video (video-retalking,Wav2Lip) [DONE] 
 
-:white_large_square: learning AI - (Jupyter Notebook [DONE], Anaconda [DONE], Tensorflow, Kerras, PyTorch, CUDA, CUDA CUDNN, TENCENT CUDNN) [PENDING]
+:white_large_square: learning AI - (Jupyter Notebook [DONE], Anaconda [DONE], Tensorflow, Kerras, PyTorch, CUDA, CUDA CUDNN, TENCENT CUDNN) [INPROGGRESS]
 
 ## 2024 Target Plan :
 
