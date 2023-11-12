@@ -5,83 +5,58 @@
 
 ## ACHIVEMENT PROGRAMMING KNOWLEDGE FROM COMPANY
 
-[prieds.com - PT. SOLUSI KEBUTUHAN TEKNOLOGI](https://prieds.com) | BACKEND NEW/MODIFY ERP & WMS FEATURE
+[prieds.com - PT. SOLUSI KEBUTUHAN TEKNOLOGI](https://prieds.com) | 
+<br />
+- BACKEND NEW/MODIFY ERP & WMS FEATURE<br />
+- BACKEND INTEGRATION PAYMENT SERVICES - XENDIT<br />
+- BACKEND INTEGRATION PAYMENT SERVICES - QRIS<br />
+- BACKEND INTEGRATION WAREHOUSE MANAGEMENT SYSTEM - ACCURATE<br />
+- BACKEND INTEGRATION WAREHOUSE MANAGEMENT SYSTEM - UPFOS<br />
+- BACKEND INTEGRATION WAREHOUSE MANAGEMENT SYSTEM - GENEE<br />
+- BACKEND INTEGRATION WAREHOUSE MANAGEMENT SYSTEM - BEAUTYHAUL WMS<br />
+- BACKEND INTEGRATION WAREHOUSE MANAGEMENT SYSTEM - MERKARI JURNAL<br />
+- BACKEND INTEGRATION WAREHOUSE MANAGEMENT SYSTEM - HITACHI SMAP (JAPAN)<br />
+- BACKEND INTEGRATION WAREHOUSE MANAGEMENT SYSTEM - ORACLE NETSUITE<br />
+- BACKEND INTEGRATION WAREHOUSE MANAGEMENT SYSTEM & OMNICHANNEL MARKETPLACE - FORSTOK<br />
+- BACKEND INTEGRATION ONE TIME PASSWORD - VERIHUBS (SMS & WHATSAPP)<br />
+- BACKEND INTEGRATION ONE TIME PASSWORD - META (WHATSAPP)<br />
+- BACKEND & DEVOPS INTEGRATION - AUTOMATION BACKEND SHELLJS AZURE-CLI (AUTO SHUTDOWN VM SPESIFIC USING HOURS/DATE/DAYS/HOLIDAYS)<br />
+- BACKEND & DEVOPS INTEGRATION - AUTOMATION BACKEND SHELLJS AZURE-CLI & JENKINS API (CREATE VM/CLOUD + AUTO DEPLOY USING BACKEND + AUTO DATA SERVER)<br />
+- BACKEND & DEVOPS INTEGRATION - AUTOMATION BACKEND AWS-SDK (CREATE VM/CLOUD + AUTO DEPLOY USING BACKEND + AUTO DATA SERVER)<br />
+- DEVOPS AUTOMATION - CLOUDFORMATION (ACM, AWS LAMBDA, S3, CLOUDFRONT, API GATEWAY, ROUTE53)<br />
+- DEVOPS AUTOMATION - LINUX & DOCKER DATABASE REPLICASET & CLUSTER<br />
+- DEVOPS AUTOMATION - JENKINS PIPELINE & LINUX BASH SHELL<br />
 
-[prieds.com - PT. SOLUSI KEBUTUHAN TEKNOLOGI](https://prieds.com) | BACKEND INTEGRATION PAYMENT SERVICES - XENDIT
-PT. 
-[prieds.com - PT. SOLUSI KEBUTUHAN TEKNOLOGI](https://prieds.com) | BACKEND INTEGRATION PAYMENT SERVICES - QRIS
+[ameera.co.id - PT. DUTA DATA TEKNOLOGI](https://ameera.co.id)<br />
+- FULLSTACK NEW/MODIFY SYSTEM INFORMATION INTERNAL OFFICE<br />
 
-[prieds.com - PT. SOLUSI KEBUTUHAN TEKNOLOGI](https://prieds.com) | BACKEND INTEGRATION WAREHOUSE MANAGEMENT SYSTEM - ACCURATE
-
-[prieds.com - PT. SOLUSI KEBUTUHAN TEKNOLOGI](https://prieds.com) | BACKEND INTEGRATION WAREHOUSE MANAGEMENT SYSTEM - UPFOS
-
-[prieds.com - PT. SOLUSI KEBUTUHAN TEKNOLOGI](https://prieds.com) | BACKEND INTEGRATION WAREHOUSE MANAGEMENT SYSTEM - GENEE
-
-[prieds.com - PT. SOLUSI KEBUTUHAN TEKNOLOGI](https://prieds.com) | BACKEND INTEGRATION WAREHOUSE MANAGEMENT SYSTEM - BEAUTYHAUL WMS
-
-[prieds.com - PT. SOLUSI KEBUTUHAN TEKNOLOGI](https://prieds.com) | BACKEND INTEGRATION WAREHOUSE MANAGEMENT SYSTEM - MERKARI JURNAL
-
-[prieds.com - PT. SOLUSI KEBUTUHAN TEKNOLOGI](https://prieds.com) | BACKEND INTEGRATION WAREHOUSE MANAGEMENT SYSTEM - HITACHI SMAP (JAPAN)
-
-[prieds.com - PT. SOLUSI KEBUTUHAN TEKNOLOGI](https://prieds.com) | BACKEND INTEGRATION WAREHOUSE MANAGEMENT SYSTEM - ORACLE NETSUITE
-
-[prieds.com - PT. SOLUSI KEBUTUHAN TEKNOLOGI](https://prieds.com) | BACKEND INTEGRATION WAREHOUSE MANAGEMENT SYSTEM & OMNICHANNEL MARKETPLACE - FORSTOK
-
-[prieds.com - PT. SOLUSI KEBUTUHAN TEKNOLOGI](https://prieds.com) | BACKEND INTEGRATION ONE TIME PASSWORD - VERIHUBS (SMS & WHATSAPP)
-
-[prieds.com - PT. SOLUSI KEBUTUHAN TEKNOLOGI](https://prieds.com) | BACKEND INTEGRATION ONE TIME PASSWORD - META (WHATSAPP)
-
-[prieds.com - PT. SOLUSI KEBUTUHAN TEKNOLOGI](https://prieds.com) | BACKEND & DEVOPS INTEGRATION - AUTOMATION BACKEND SHELLJS AZURE-CLI (AUTO SHUTDOWN VM SPESIFIC USING HOURS/DATE/DAYS/HOLIDAYS)
-
-[prieds.com - PT. SOLUSI KEBUTUHAN TEKNOLOGI](https://prieds.com) | BACKEND & DEVOPS INTEGRATION - AUTOMATION BACKEND SHELLJS AZURE-CLI & JENKINS API (CREATE VM/CLOUD + AUTO DEPLOY USING BACKEND + AUTO DATA SERVER)
-
-[prieds.com - PT. SOLUSI KEBUTUHAN TEKNOLOGI](https://prieds.com) | BACKEND & DEVOPS INTEGRATION - AUTOMATION BACKEND AWS-SDK (CREATE VM/CLOUD + AUTO DEPLOY USING BACKEND + AUTO DATA SERVER)
-
-[prieds.com - PT. SOLUSI KEBUTUHAN TEKNOLOGI](https://prieds.com) | DEVOPS AUTOMATION - CLOUDFORMATION (ACM, AWS LAMBDA, S3, CLOUDFRONT, API GATEWAY, ROUTE53)
-
-[prieds.com - PT. SOLUSI KEBUTUHAN TEKNOLOGI](https://prieds.com) | DEVOPS AUTOMATION - LINUX & DOCKER DATABASE REPLICASET & CLUSTER
-
-[prieds.com - PT. SOLUSI KEBUTUHAN TEKNOLOGI](https://prieds.com) | DEVOPS AUTOMATION - JENKINS PIPELINE & LINUX BASH SHELL
-
-[ameera.co.id - PT. DUTA DATA TEKNOLOGI](https://ameera.co.id) | FULLSTACK NEW/MODIFY SYSTEM INFORMATION INTERNAL OFFICE
-
-[duaempatsinergi.com - PT. DUA EMPAT SINERGI](https://duaempatsinergi.com) | BACKEND MIKOTIK - PROJECT SHUTDOWN MIKOTIK BY TRIGGER & MONITORING USER WEB LOGIN WIFI REALTIME
+[duaempatsinergi.com - PT. DUA EMPAT SINERGI](https://duaempatsinergi.com)<br />
+- BACKEND MIKOTIK - PROJECT SHUTDOWN MIKOTIK BY TRIGGER & MONITORING USER WEB LOGIN WIFI REALTIME<br />
 
 STILL UPDATING . . . . TO MANY
 
 ## SELF RND LIST
 
-BACKEND
-
-[nodejs - nestjs - fastify adapter - mysql](https://github.com/EKI-INDRADI/eki-latihan-nestjs-fastify-mysql) | PROJECT - POINT OF SALE
-
-[nodejs - nestjs - fastify adapter - mongodb](https://github.com/EKI-INDRADI/eki-latihan-nestjs-fastify-mongodb) | PROJECT - POINT OF SALE
-
-[nodejs - nestjs - fastify adapter - postgresql](https://github.com/EKI-INDRADI/eki-latihan-nestjs-fastify-postgresql) | PROJECT - POINT OF SALE
-
-[nodejs - nestjs - express adapter (default) - mysql](https://github.com/EKI-INDRADI/eki-latihan-nestjs-mysql) | PROJECT - POINT OF SALE
-
-[nodejs - nestjs - express adapter (default) - postgresql](https://github.com/EKI-INDRADI/eki-latihan-nestjs-postgresql) | PROJECT - POINT OF SALE
-
-[nodejs - nestjs - express adapter (default) - mongodb](https://github.com/EKI-INDRADI/eki-latihan-nestjs-mongodb) | PROJECT - POINT OF SALE
-
-[nodejs - nestjs - express adapter (default) - sqlite](https://github.com/EKI-INDRADI/eki-latihan-nestjs-sqlite-portable-file-upload) | PROJECT - FILE UPLOAD
+BACKEND<br />
+[nodejs - nestjs - fastify adapter - mysql](https://github.com/EKI-INDRADI/eki-latihan-nestjs-fastify-mysql) | PROJECT - POINT OF SALE<br />
+[nodejs - nestjs - fastify adapter - mongodb](https://github.com/EKI-INDRADI/eki-latihan-nestjs-fastify-mongodb) | PROJECT - POINT OF SALE<br />
+[nodejs - nestjs - fastify adapter - postgresql](https://github.com/EKI-INDRADI/eki-latihan-nestjs-fastify-postgresql) | PROJECT - POINT OF SALE<br />
+[nodejs - nestjs - express adapter (default) - mysql](https://github.com/EKI-INDRADI/eki-latihan-nestjs-mysql) | PROJECT - POINT OF SALE<br />
+[nodejs - nestjs - express adapter (default) - postgresql](https://github.com/EKI-INDRADI/eki-latihan-nestjs-postgresql) | PROJECT - POINT OF SALE<br />
+[nodejs - nestjs - express adapter (default) - mongodb](https://github.com/EKI-INDRADI/eki-latihan-nestjs-mongodb) | PROJECT - POINT OF SALE<br />
+[nodejs - nestjs - express adapter (default) - sqlite](https://github.com/EKI-INDRADI/eki-latihan-nestjs-sqlite-portable-file-upload) | PROJECT - FILE UPLOAD<br />
 
 
-DOCKER
-
-[docker - portable](https://github.com/EKI-INDRADI/eki-latihan-vm-alpine-docker-portable)
-
-[docker - phpmyadmin - mariadb](https://github.com/EKI-INDRADI/eki-latihan-docker-phpmyadmin-mariadb)
-
-[docker - postgresql](https://github.com/EKI-INDRADI/eki-latihan-docker-postgresql)
-
-[docker - mongodb](https://github.com/EKI-INDRADI/eki-latihan-docker-mongodb)
+DOCKER<br />
+[docker - portable](https://github.com/EKI-INDRADI/eki-latihan-vm-alpine-docker-portable)<br />
+[docker - phpmyadmin - mariadb](https://github.com/EKI-INDRADI/eki-latihan-docker-phpmyadmin-mariadb)<br />
+[docker - postgresql](https://github.com/EKI-INDRADI/eki-latihan-docker-postgresql)<br />
+[docker - mongodb](https://github.com/EKI-INDRADI/eki-latihan-docker-mongodb)<br />
 
 
-STILL UPDATING . . . . TO MANY
-[search "eki-latihan"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-latihan&type=&language=&sort=)
-[search "eki-rnd"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-rnd&type=&language=&sort=)
+STILL UPDATING . . . . TO MANY<br />
+[search "eki-latihan"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-latihan&type=&language=&sort=)<br />
+[search "eki-rnd"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-rnd&type=&language=&sort=)<br />
 
 
 
