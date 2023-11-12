@@ -52,9 +52,9 @@
 
 :link: https://github.com/camenduru [INPROGGRESS]
 
-:link: https://github.com/AUTOMATIC1111 [INPROGGRESS]
+:link: https://github.com/Tencent [INPROGGRESS]
 
-:link: https://www.udemy.com/course/svelte-and-sveltekit [INPROGGRESS]
+:link: https://www.udemy.com [INPROGGRESS]
 
 :link: https://chat.openai.com [INPROGGRESS]
 
