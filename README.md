@@ -46,14 +46,17 @@ BACKEND NODEJS NESTJS<br />
 - [nodejs - nestjs - express adapter (default) - mongodb](https://github.com/EKI-INDRADI/eki-latihan-nestjs-mongodb) | PROJECT - POINT OF SALE<br />
 - [nodejs - nestjs - express adapter (default) - sqlite](https://github.com/EKI-INDRADI/eki-latihan-nestjs-sqlite-portable-file-upload) | PROJECT - FILE UPLOAD<br />
 
+BACKEND PYTHON FLASK<br />
+- STILL UPDATING . . . . [search "eki-latihan flask"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-latihan+flask&type=&language=&sort=) & [search "eki-rnd flask"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-rnd+flask&type=&language=&sort=)<br />
+
 BACKEND NODEJS EXPRESSJS<br />
-- STILL UPDATING . . . . [search "eki-latihan expressjs"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-latihan&type=&language=&sort=) & [search "eki-rnd expressjs"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-rnd&type=&language=&sort=)
+- STILL UPDATING . . . . [search "eki-latihan expressjs"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-latihan+expressjs&type=&language=&sort=) & [search "eki-rnd expressjs"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-rnd+expressjs&type=&language=&sort=)<br />
 
 FRONTEND NODEJS ANGULAR<br />
-- STILL UPDATING . . . . [search "eki-latihan angular"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-latihan&type=&language=&sort=) & [search "eki-rnd angular"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-rnd&type=&language=&sort=)
+- STILL UPDATING . . . . [search "eki-latihan angular"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-latihan+angular&type=&language=&sort=) & [search "eki-rnd angular"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-rnd+angular&type=&language=&sort=)<br />
 
 FRONTEND NODEJS SVELTE<br />
-- STILL UPDATING . . . . [search "eki-latihan svelte"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-latihan&type=&language=&sort=) & [search "eki-rnd svelte"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-rnd&type=&language=&sort=)
+- STILL UPDATING . . . . [search "eki-latihan svelte"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-latihan+svelte&type=&language=&sort=) & [search "eki-rnd svelte"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-rnd+svelte&type=&language=&sort=)<br />
 
 DOCKER<br />
 - [docker - portable](https://github.com/EKI-INDRADI/eki-latihan-vm-alpine-docker-portable)<br />
