@@ -21,7 +21,7 @@
 
 :white_check_mark: learning AI-PROJECT Video add more FPS - (flowframes,framegui) [DONE] 
 
-:white_check_mark: learning AI-PROJECT removeing blur & mosaic from Video & Image - (deep_mosaic,JVP_TG-PLUS) [DONE] 
+:white_check_mark: learning AI-PROJECT removing blur & mosaic from Video & Image - (deep_mosaic,JVP_TG-PLUS) [DONE] 
 
 :white_check_mark: learning AI-PROJECT change the voice & lips sync from video (video-retalking,Wav2Lip) [DONE] 
 
