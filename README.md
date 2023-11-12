@@ -47,7 +47,9 @@ BACKEND NODEJS NESTJS<br />
 - [nodejs - nestjs - express adapter (default) - sqlite](https://github.com/EKI-INDRADI/eki-latihan-nestjs-sqlite-portable-file-upload) | PROJECT - FILE UPLOAD<br />
 
 BACKEND PYTHON FLASK<br />
-- STILL UPDATING . . . . [search "eki-latihan flask"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-latihan+flask&type=&language=&sort=) & [search "eki-rnd flask"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-rnd+flask&type=&language=&sort=)<br />
+- [python - basic](https://github.com/EKI-INDRADI/eki-latihan-python/tree/master/latihan_python_basic)<br />
+- [python - flask - mysql](https://github.com/EKI-INDRADI/eki-latihan-python/tree/master/latihan_python_restful_api/python-restful-api-mysql)<br />
+- [python - flask - sqlite](https://github.com/EKI-INDRADI/eki-latihan-python/tree/master/latihan_python_restful_api/python-restful-api-sqlite)<br />
 
 BACKEND NODEJS EXPRESSJS<br />
 - STILL UPDATING . . . . [search "eki-latihan expressjs"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-latihan+expressjs&type=&language=&sort=) & [search "eki-rnd expressjs"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-rnd+expressjs&type=&language=&sort=)<br />
