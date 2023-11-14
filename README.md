@@ -56,13 +56,11 @@ FRONTEND NODEJS SVELTE<br />
 - [nodejs - typescript - svelte - sveltekit](https://github.com/EKI-INDRADI/eki-rnd-svelte-and-sveltekit) | COURSE BOOTCAMP POINT OF SALE (MOVIE) - (DEPRECATED SVELTEKIT OLD VERSION)<br />
 - [nodejs - typescript - svelte - sveltekit](https://github.com/EKI-INDRADI/eki-latihan-svelte) | PROJECT USER LOGIN - PROTECTED ROUTES (DEPRECATED SVELTEKIT OLD VERSION)<br />
 
-DOCKER<br />
+DATABASE & QUERY & TOOLS<br />
 - [docker - portable](https://github.com/EKI-INDRADI/eki-latihan-vm-alpine-docker-portable)<br />
 - [docker - phpmyadmin - mariadb](https://github.com/EKI-INDRADI/eki-latihan-docker-phpmyadmin-mariadb)<br />
 - [docker - postgresql](https://github.com/EKI-INDRADI/eki-latihan-docker-postgresql)<br />
 - [docker - mongodb](https://github.com/EKI-INDRADI/eki-latihan-docker-mongodb)<br />
-
-DATABASE & QUERY & TOOLS<br />
 - [mongodb](https://github.com/EKI-INDRADI/eki-latihan-mongodb) | COURSE MONGODB<br />
 - [elasticsearch](https://github.com/EKI-INDRADI/eki-latihan-elasticsearch) | COURSE ELASTICSEARCH<br />
 - [confluent - kafka - zookeper - grafana - promotheus](https://github.com/EKI-INDRADI/eki-latihan-kafka-confluent-6-monitoring-jmx_exporter-promotheus-grafana) | MONITORING SERVER KAFKA ZOOKEPER GRAFANA PROMOTHEUS<br />
