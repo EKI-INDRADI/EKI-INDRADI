@@ -5,8 +5,7 @@
 
 ## ACHIVEMENT PROGRAMMING KNOWLEDGE FROM COMPANY
 
-[prieds.com - PT. SOLUSI KEBUTUHAN TEKNOLOGI](https://prieds.com) 
-<br />
+[PRIEDS.COM - PT. SOLUSI KEBUTUHAN TEKNOLOGI](https://prieds.com)<br />
 - BACKEND NEW/MODIFY ERP & WMS FEATURE<br />
 - BACKEND INTEGRATION PAYMENT SERVICES - XENDIT<br />
 - BACKEND INTEGRATION PAYMENT SERVICES - QRIS<br />
@@ -30,10 +29,10 @@
 - DEVOPS AUTOMATION - LINUX BASH SHELL & DOCKER (CLI,DOCUKERFILE,COMPOSE,YAML) DATABASE REPLICASET & CLUSTER<br />
 - DEVOPS AUTOMATION - JENKINS PIPELINE & LINUX BASH SHELL<br />
 
-[ameera.co.id - PT. DUTA DATA TEKNOLOGI](https://ameera.co.id)<br />
+[AMEERA.CO.ID - PT. DUTA DATA TEKNOLOGI](https://ameera.co.id)<br />
 - FULLSTACK NEW/MODIFY SYSTEM INFORMATION INTERNAL OFFICE<br />
 
-[duaempatsinergi.com - PT. DUA EMPAT SINERGI](https://duaempatsinergi.com)<br />
+[DUAEMPATSINERGI.COM - PT. DUA EMPAT SINERGI](https://duaempatsinergi.com)<br />
 - BACKEND MIKOTIK - PROJECT SHUTDOWN MIKOTIK BY TRIGGER & MONITORING USER WEB LOGIN WIFI REALTIME<br />
 
 STILL UPDATING . . . . TO MANY
@@ -72,16 +71,14 @@ BACKEND PYTHON FLASK<br />
 - [python - flask - mysql](https://github.com/EKI-INDRADI/eki-latihan-python/tree/master/latihan_python_restful_api/python-restful-api-mysql)<br />
 - [python - flask - sqlite](https://github.com/EKI-INDRADI/eki-latihan-python/tree/master/latihan_python_restful_api/python-restful-api-sqlite)<br />
 
-
-
-
-- STILL UPDATING . . . . [search "eki-latihan expressjs"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-latihan+expressjs&type=&language=&sort=) & [search "eki-rnd expressjs"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-rnd+expressjs&type=&language=&sort=)<br />
-
 FRONTEND NODEJS ANGULAR<br />
 - STILL UPDATING . . . . [search "eki-latihan angular"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-latihan+angular&type=&language=&sort=) & [search "eki-rnd angular"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-rnd+angular&type=&language=&sort=)<br />
 
 FRONTEND NODEJS SVELTE<br />
-- STILL UPDATING . . . . [search "eki-latihan svelte"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-latihan+svelte&type=&language=&sort=) & [search "eki-rnd svelte"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-rnd+svelte&type=&language=&sort=)<br />
+- [nodejs - javascript - svelte - basic - sveltekit](https://github.com/EKI-INDRADI/eki-rnd-svelte-sveltekit-2023) | COURSE BASIC TO MASTER - (SVELTEKIT NEW VERSION)<br />
+- [nodejs - typescript - svelte - prisma - sveltekit](https://github.com/EKI-INDRADI/eki-rnd-svelte-monolith-crud-sveltekit-prisma) | PROJECT CRUD - (SVELTEKIT NEW VERSION)<br />
+- [nodejs - typescript - svelte - sveltekit](https://github.com/EKI-INDRADI/eki-rnd-svelte-and-sveltekit) | COURSE BOOTCAMP POINT OF SALE (MOVIE) - (DEPRECATED SVELTEKIT OLD VERSION)<br />
+- [nodejs - typescript - svelte - sveltekit](https://github.com/EKI-INDRADI/eki-latihan-svelte) | PROJECT USER LOGIN - PROTECTED ROUTES (DEPRECATED SVELTEKIT OLD VERSION)<br />
 
 DOCKER<br />
 - [docker - portable](https://github.com/EKI-INDRADI/eki-latihan-vm-alpine-docker-portable)<br />
@@ -105,7 +102,7 @@ DOCS STILL UPDATING . . . . [search "eki-latihan"](https://github.com/EKI-INDRAD
 :white_check_mark: learning AI-PROJECT Deepfakes - (faceswap,DeepfaceLab,Roop) [DONE]<br /> 
 :white_check_mark: learning AI-PROJECT Video & Image Upscaler - (real-esrgan,esrgan,realsr,srmd,waifu2x,upscayl,video2x,ncnn-vulkan) [DONE]<br /> 
 :white_check_mark: learning AI-PROJECT Video add more FPS - (flowframes,framegui) [DONE]<br /> 
-:white_check_mark: learning AI-PROJECT removing blur & mosaic from Video & Image - (deep_mosaic,JVP_TG-PLUS) [DONE]<br /> 
+:white_check_mark: learning AI-PROJECT removing blur & mosaic from Video & Image - (deep_mosaic,JVP_TG-PLUS,TECOGAN) [DONE]<br /> 
 :white_check_mark: learning AI-PROJECT change the voice & lips sync from video (video-retalking,Wav2Lip) [DONE]<br /> 
 :white_large_square: learning AI - (Jupyter Notebook [DONE], Anaconda [DONE], Tensorflow, Kerras, PyTorch, CUDA, CUDA CUDNN, TENCENT CUDNN) [INPROGGRESS]<br />
 
