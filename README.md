@@ -16,7 +16,6 @@ BACKEND NODEJS NESTJS (BACKEND PROGRESSIVE FRAMEWORK)<br />
 - [nodejs - typescript - nestjs - express adapter (default) - postgresql](https://github.com/EKI-INDRADI/eki-latihan-nestjs-postgresql) | PROJECT - POINT OF SALE<br />
 - [nodejs - typescript - nestjs - express adapter (default) - mongodb](https://github.com/EKI-INDRADI/eki-latihan-nestjs-mongodb) | PROJECT - POINT OF SALE<br />
 - [nodejs - typescript - nestjs - express adapter (default) - sqlite](https://github.com/EKI-INDRADI/eki-latihan-nestjs-sqlite-portable-file-upload) | PROJECT - FILE UPLOAD<br />
-- [nodejs - typescript - nestjs - express adapter (default) - sqlite](https://github.com/EKI-INDRADI/eki-latihan-nestjs-sqlite-portable-file-upload) | PROJECT - FILE UPLOAD<br />
 - [nodejs - typescript - nestjs - express adapter (default)](https://github.com/EKI-INDRADI/eki-latihan-nestjs-http-module-rxjs-8) | FIX HTTP MODULE DEPRECATED - USING RXJS 7+
 
 BACKEND NODEJS EXPRESSJS<br />
