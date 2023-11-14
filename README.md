@@ -42,18 +42,17 @@ STILL UPDATING . . . . TO MANY
 
 BACKEND NODEJS NESTJS (BACKEND PROGRESSIVE FRAMEWORK)<br />
 
-- [nodejs - nestjs - express adapter - mysql - rabbitmq](https://github.com/EKI-INDRADI/eki-latihan-nestjs8-microservices-rabbitmq-exchange) | PROJECT - POINT OF SALE - MICRO SERVICES CHOREOGRAPHY - RABBITMQ EXCHANGE TOPIC<br />
-- [nodejs - nestjs - express adapter - mysql - rabbitmq](https://github.com/EKI-INDRADI/eki-latihan-nestjs8-rabbitmq-exchange-promise-handle) | RND - MESSAGE BROKER - RABBITMQ EXCHANGE TOPIC<br />
-- [nodejs - nestjs - fastify adapter - mysql](https://github.com/EKI-INDRADI/eki-latihan-nestjs-fastify-mysql) | PROJECT - POINT OF SALE<br />
-- [nodejs - nestjs - fastify adapter - mongodb](https://github.com/EKI-INDRADI/eki-latihan-nestjs-fastify-mongodb) | PROJECT - POINT OF SALE<br />
-- [nodejs - nestjs - fastify adapter - postgresql](https://github.com/EKI-INDRADI/eki-latihan-nestjs-fastify-postgresql) | PROJECT - POINT OF SALE<br />
-- [nodejs - nestjs - express adapter (default) - mysql](https://github.com/EKI-INDRADI/eki-latihan-nestjs-mysql) | PROJECT - POINT OF SALE<br />
-- [nodejs - nestjs - express adapter (default) - postgresql](https://github.com/EKI-INDRADI/eki-latihan-nestjs-postgresql) | PROJECT - POINT OF SALE<br />
-- [nodejs - nestjs - express adapter (default) - mongodb](https://github.com/EKI-INDRADI/eki-latihan-nestjs-mongodb) | PROJECT - POINT OF SALE<br />
-- [nodejs - nestjs - express adapter (default) - sqlite](https://github.com/EKI-INDRADI/eki-latihan-nestjs-sqlite-portable-file-upload) | PROJECT - FILE UPLOAD<br />
-- [nodejs - nestjs - express adapter (default) - sqlite](https://github.com/EKI-INDRADI/eki-latihan-nestjs-sqlite-portable-file-upload) | PROJECT - FILE UPLOAD<br />
-- [nodejs - nestjs - express adapter (default)](https://github.com/EKI-INDRADI/eki-latihan-nestjs-http-module-rxjs-8) | FIX HTTP MODULE DEPRECATED - USING RXJS 8+
-
+- [nodejs - typescript - nestjs - express adapter - mysql - rabbitmq](https://github.com/EKI-INDRADI/eki-latihan-nestjs8-microservices-rabbitmq-exchange) | PROJECT - POINT OF SALE - MICRO SERVICES CHOREOGRAPHY - RABBITMQ EXCHANGE TOPIC<br />
+- [nodejs - typescript - nestjs - express adapter - mysql - rabbitmq](https://github.com/EKI-INDRADI/eki-latihan-nestjs8-rabbitmq-exchange-promise-handle) | RND - MESSAGE BROKER - RABBITMQ EXCHANGE TOPIC<br />
+- [nodejs - typescript - nestjs - fastify adapter - mysql](https://github.com/EKI-INDRADI/eki-latihan-nestjs-fastify-mysql) | PROJECT - POINT OF SALE<br />
+- [nodejs - typescript - nestjs - fastify adapter - mongodb](https://github.com/EKI-INDRADI/eki-latihan-nestjs-fastify-mongodb) | PROJECT - POINT OF SALE<br />
+- [nodejs - typescript - nestjs - fastify adapter - postgresql](https://github.com/EKI-INDRADI/eki-latihan-nestjs-fastify-postgresql) | PROJECT - POINT OF SALE<br />
+- [nodejs - typescript - nestjs - express adapter (default) - mysql](https://github.com/EKI-INDRADI/eki-latihan-nestjs-mysql) | PROJECT - POINT OF SALE<br />
+- [nodejs - typescript - nestjs - express adapter (default) - postgresql](https://github.com/EKI-INDRADI/eki-latihan-nestjs-postgresql) | PROJECT - POINT OF SALE<br />
+- [nodejs - typescript - nestjs - express adapter (default) - mongodb](https://github.com/EKI-INDRADI/eki-latihan-nestjs-mongodb) | PROJECT - POINT OF SALE<br />
+- [nodejs - typescript - nestjs - express adapter (default) - sqlite](https://github.com/EKI-INDRADI/eki-latihan-nestjs-sqlite-portable-file-upload) | PROJECT - FILE UPLOAD<br />
+- [nodejs - typescript - nestjs - express adapter (default) - sqlite](https://github.com/EKI-INDRADI/eki-latihan-nestjs-sqlite-portable-file-upload) | PROJECT - FILE UPLOAD<br />
+- [nodejs - typescript - nestjs - express adapter (default)](https://github.com/EKI-INDRADI/eki-latihan-nestjs-http-module-rxjs-8) | FIX HTTP MODULE DEPRECATED - USING RXJS 8+
 
 BACKEND NODEJS EXPRESSJS<br />
 - [nodejs - expressjs - mongodb - rabbitmq](eki-latihan-express-mongodb-jwt-role) | PROJECT - POINT OF SALE - SCALABLE & OPTIMIZE (CLUSTER,CHILD PROCESS) - EVENT DRIVEN/MESSAGE BROKER<br />
@@ -61,6 +60,10 @@ BACKEND NODEJS EXPRESSJS<br />
 - [nodejs - expressjs - nestjs - postgresql](https://github.com/EKI-INDRADI/elevenia-api-expressjs-nestjs-postgresql) | PROJECT - POINT OF SALE - ELEVENIA API<br />
 - [nodejs - expressjs - angular](https://github.com/EKI-INDRADI/expressjs-angular-20220703) | TEST 20220703<br />
 
+BACKEND NODEJS UNIT TEST<br />
+- [nodejs - javascript (commonjs) - unit test](https://github.com/EKI-INDRADI/eki-latihan-nodejs-unit-test-javascript-commonjs)<br />
+- [nodejs - javascript (module) - unit test](https://github.com/EKI-INDRADI/eki-latihan-nodejs-unit-test-javascript-module)<br />
+- [nodejs - typescript - unit test](https://github.com/EKI-INDRADI/eki-latihan-nodejs-unit-test-typescript)<br />
 
 BACKEND PYTHON<br />
 - [python - basic](https://github.com/EKI-INDRADI/eki-latihan-python/tree/master/latihan_python_basic)<br />
