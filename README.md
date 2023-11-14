@@ -93,8 +93,9 @@ DOCKER<br />
 
 DATABASE & QUERY & TOOLS<br />
 - [mongodb](https://github.com/EKI-INDRADI/eki-latihan-mongodb) | COURSE MONGODB<br />
-- [elasticsearch](https://github.com/EKI-INDRADI/eki-latihan-elasticsearch) | COURSE ELASTICSEARCH)<br />
+- [elasticsearch](https://github.com/EKI-INDRADI/eki-latihan-elasticsearch) | COURSE ELASTICSEARCH<br />
 - [confluent - kafka - zookeper - grafana - promotheus](https://github.com/EKI-INDRADI/eki-latihan-kafka-confluent-6-monitoring-jmx_exporter-promotheus-grafana) | MONITORING SERVER KAFKA ZOOKEPER GRAFAN PROMOTHEUS<br />
+- [mikrotik](https://github.com/EKI-INDRADI/eki-latihan-mikrotik) | MIKROTIK WIFI WEB LOGIN, HAP, LIMIT BANDWITH, BRIDGE, HOTSPOT, FLASH
 
 
 
