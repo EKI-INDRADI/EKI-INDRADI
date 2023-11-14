@@ -51,7 +51,7 @@ BACKEND NODEJS NESTJS (BACKEND PROGRESSIVE FRAMEWORK)<br />
 - [nodejs - typescript - nestjs - express adapter (default) - mongodb](https://github.com/EKI-INDRADI/eki-latihan-nestjs-mongodb) | PROJECT - POINT OF SALE<br />
 - [nodejs - typescript - nestjs - express adapter (default) - sqlite](https://github.com/EKI-INDRADI/eki-latihan-nestjs-sqlite-portable-file-upload) | PROJECT - FILE UPLOAD<br />
 - [nodejs - typescript - nestjs - express adapter (default) - sqlite](https://github.com/EKI-INDRADI/eki-latihan-nestjs-sqlite-portable-file-upload) | PROJECT - FILE UPLOAD<br />
-- [nodejs - typescript - nestjs - express adapter (default)](https://github.com/EKI-INDRADI/eki-latihan-nestjs-http-module-rxjs-8) | FIX HTTP MODULE DEPRECATED - USING RXJS 8+
+- [nodejs - typescript - nestjs - express adapter (default)](https://github.com/EKI-INDRADI/eki-latihan-nestjs-http-module-rxjs-8) | FIX HTTP MODULE DEPRECATED - USING RXJS 7+
 
 BACKEND NODEJS EXPRESSJS<br />
 - [nodejs - expressjs - mongodb - rabbitmq](eki-latihan-express-mongodb-jwt-role) | PROJECT - POINT OF SALE - SCALABLE & OPTIMIZE (CLUSTER,CHILD PROCESS) - EVENT DRIVEN/MESSAGE BROKER<br />
@@ -63,6 +63,10 @@ BACKEND NODEJS UNIT TEST<br />
 - [nodejs - javascript (commonjs) - unit test](https://github.com/EKI-INDRADI/eki-latihan-nodejs-unit-test-javascript-commonjs)<br />
 - [nodejs - javascript (module) - unit test](https://github.com/EKI-INDRADI/eki-latihan-nodejs-unit-test-javascript-module)<br />
 - [nodejs - typescript - unit test](https://github.com/EKI-INDRADI/eki-latihan-nodejs-unit-test-typescript)<br />
+
+BACKEND GOLANG<br />
+- [golang - unit test](https://github.com/EKI-INDRADI/eki-latihan-golang-unit-test) | COURSE GOLANG UNIT TEST<br />
+- [golang - modules](https://github.com/EKI-INDRADI/eki-latihan-golang-modules) | COURSE GOLANG MODULES<br />
 
 BACKEND PYTHON<br />
 - [python - basic](https://github.com/EKI-INDRADI/eki-latihan-python/tree/master/latihan_python_basic)<br />
