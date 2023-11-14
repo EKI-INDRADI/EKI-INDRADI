@@ -40,7 +40,10 @@ STILL UPDATING . . . . TO MANY
 
 ## SELF RND LIST
 
-BACKEND NODEJS NESTJS<br />
+BACKEND NODEJS NESTJS (BACKEND PROGRESSIVE FRAMEWORK)<br />
+
+- [nodejs - nestjs - express adapter - mysql - rabbitmq](https://github.com/EKI-INDRADI/eki-latihan-nestjs8-microservices-rabbitmq-exchange) | PROJECT - POINT OF SALE - MICRO SERVICES CHOREOGRAPHY - RABBITMQ EXCHANGE TOPIC<br />
+- [nodejs - nestjs - express adapter - mysql - rabbitmq](https://github.com/EKI-INDRADI/eki-latihan-nestjs8-rabbitmq-exchange-promise-handle) | RND - MESSAGE BROKER - RABBITMQ EXCHANGE TOPIC<br />
 - [nodejs - nestjs - fastify adapter - mysql](https://github.com/EKI-INDRADI/eki-latihan-nestjs-fastify-mysql) | PROJECT - POINT OF SALE<br />
 - [nodejs - nestjs - fastify adapter - mongodb](https://github.com/EKI-INDRADI/eki-latihan-nestjs-fastify-mongodb) | PROJECT - POINT OF SALE<br />
 - [nodejs - nestjs - fastify adapter - postgresql](https://github.com/EKI-INDRADI/eki-latihan-nestjs-fastify-postgresql) | PROJECT - POINT OF SALE<br />
@@ -48,6 +51,16 @@ BACKEND NODEJS NESTJS<br />
 - [nodejs - nestjs - express adapter (default) - postgresql](https://github.com/EKI-INDRADI/eki-latihan-nestjs-postgresql) | PROJECT - POINT OF SALE<br />
 - [nodejs - nestjs - express adapter (default) - mongodb](https://github.com/EKI-INDRADI/eki-latihan-nestjs-mongodb) | PROJECT - POINT OF SALE<br />
 - [nodejs - nestjs - express adapter (default) - sqlite](https://github.com/EKI-INDRADI/eki-latihan-nestjs-sqlite-portable-file-upload) | PROJECT - FILE UPLOAD<br />
+- [nodejs - nestjs - express adapter (default) - sqlite](https://github.com/EKI-INDRADI/eki-latihan-nestjs-sqlite-portable-file-upload) | PROJECT - FILE UPLOAD<br />
+- [nodejs - nestjs - express adapter (default)](https://github.com/EKI-INDRADI/eki-latihan-nestjs-http-module-rxjs-8) | FIX HTTP MODULE DEPRECATED - USING RXJS 8+
+
+
+BACKEND NODEJS EXPRESSJS<br />
+- [nodejs - expressjs - mongodb - rabbitmq](eki-latihan-express-mongodb-jwt-role) | PROJECT - POINT OF SALE - SCALABLE & OPTIMIZE (CLUSTER,CHILD PROCESS) - EVENT DRIVEN/MESSAGE BROKER<br />
+- [nodejs - expressjs - rabbitmq](eki-latihan-express-scalable-and-optimize) | RND - SCALABLE & OPTIMIZE (CLUSTER,CHILD PROCESS) - EVENT DRIVEN/MESSAGE BROKER<br />
+- [nodejs - expressjs - nestjs - postgresql](https://github.com/EKI-INDRADI/elevenia-api-expressjs-nestjs-postgresql) | PROJECT - POINT OF SALE - ELEVENIA API<br />
+- [nodejs - expressjs - angular](https://github.com/EKI-INDRADI/expressjs-angular-20220703) | TEST 20220703<br />
+
 
 BACKEND PYTHON<br />
 - [python - basic](https://github.com/EKI-INDRADI/eki-latihan-python/tree/master/latihan_python_basic)<br />
@@ -56,7 +69,9 @@ BACKEND PYTHON FLASK<br />
 - [python - flask - mysql](https://github.com/EKI-INDRADI/eki-latihan-python/tree/master/latihan_python_restful_api/python-restful-api-mysql)<br />
 - [python - flask - sqlite](https://github.com/EKI-INDRADI/eki-latihan-python/tree/master/latihan_python_restful_api/python-restful-api-sqlite)<br />
 
-BACKEND NODEJS EXPRESSJS<br />
+
+
+
 - STILL UPDATING . . . . [search "eki-latihan expressjs"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-latihan+expressjs&type=&language=&sort=) & [search "eki-rnd expressjs"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-rnd+expressjs&type=&language=&sort=)<br />
 
 FRONTEND NODEJS ANGULAR<br />
