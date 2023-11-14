@@ -70,6 +70,7 @@ BACKEND NODEJS UNIT TEST<br />
 - [nodejs - typescript - unit test](https://github.com/EKI-INDRADI/eki-latihan-nodejs-unit-test-typescript)<br />
 
 BACKEND GOLANG<br />
+- [golang - basic](https://github.com/EKI-INDRADI/eki-latihan-golang-dasar) | GOLANG BASIC<br />
 - [golang - unit test](https://github.com/EKI-INDRADI/eki-latihan-golang-unit-test) | COURSE GOLANG UNIT TEST<br />
 - [golang - modules](https://github.com/EKI-INDRADI/eki-latihan-golang-modules) | COURSE GOLANG MODULES<br />
 
@@ -99,9 +100,10 @@ DOCKER<br />
 DATABASE & QUERY & TOOLS<br />
 - [mongodb](https://github.com/EKI-INDRADI/eki-latihan-mongodb) | COURSE MONGODB<br />
 - [elasticsearch](https://github.com/EKI-INDRADI/eki-latihan-elasticsearch) | COURSE ELASTICSEARCH<br />
-- [confluent - kafka - zookeper - grafana - promotheus](https://github.com/EKI-INDRADI/eki-latihan-kafka-confluent-6-monitoring-jmx_exporter-promotheus-grafana) | MONITORING SERVER KAFKA ZOOKEPER GRAFAN PROMOTHEUS<br />
-- [mikrotik](https://github.com/EKI-INDRADI/eki-latihan-mikrotik) | MIKROTIK WIFI WEB LOGIN, HAP, LIMIT BANDWITH, BRIDGE, HOTSPOT, FLASH
-
+- [confluent - kafka - zookeper - grafana - promotheus](https://github.com/EKI-INDRADI/eki-latihan-kafka-confluent-6-monitoring-jmx_exporter-promotheus-grafana) | MONITORING SERVER KAFKA ZOOKEPER GRAFANA PROMOTHEUS<br />
+- [mikrotik](https://github.com/EKI-INDRADI/eki-latihan-mikrotik) | MIKROTIK WIFI WEB LOGIN, HAP, LIMIT BANDWITH, BRIDGE, HOTSPOT, FLASH<br />
+- [jenkins](https://github.com/EKI-INDRADI/eki-latihan-jenkins) | JENKINS BASIC<br />
+- [jenkins](https://github.com/EKI-INDRADI/eki-latihan-deploy-jenkins-pipeline/blob/master/Jenkinsfile) | JENKINS PIPELINE BASIC<br />
 
 
 DOCS STILL UPDATING . . . . [search "eki-latihan"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-latihan&type=&language=&sort=) & [search "eki-rnd"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-rnd&type=&language=&sort=)
