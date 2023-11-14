@@ -19,6 +19,7 @@
 - BACKEND INTEGRATION WAREHOUSE MANAGEMENT SYSTEM & OMNICHANNEL MARKETPLACE - FORSTOK<br />
 - BACKEND INTEGRATION ONE TIME PASSWORD - VERIHUBS (SMS & WHATSAPP)<br />
 - BACKEND INTEGRATION ONE TIME PASSWORD - META (WHATSAPP)<br />
+- BACKEND & DEVOPS INTEGRATION - AUTOMATION BACKEND SHELLJS CPU USAGE DETECTION - EC2 DOWNSCALING/SHUTDOWN (INVERSE FROM EC2 UPSCLAING FEATURE) - FEATURE UPSCALE & DOWNSCALE SERVER WITH LOAD BALANCER<br />
 - BACKEND & DEVOPS INTEGRATION - AUTOMATION BACKEND SHELLJS DEPLOY (AGENT,JOB) JENKINS API <br />
 - BACKEND & DEVOPS INTEGRATION - AUTOMATION BACKEND SHELLJS AZURE-CLI (AUTO SHUTDOWN VM SPESIFIC USING HOURS/DATE/DAYS/HOLIDAYS)<br />
 - BACKEND & DEVOPS INTEGRATION - AUTOMATION BACKEND SHELLJS AZURE-CLI & JENKINS API (CREATE VM/CLOUD + AUTO DEPLOY USING BACKEND + AUTO DATA SERVER)<br />
@@ -54,10 +55,14 @@ BACKEND NODEJS NESTJS (BACKEND PROGRESSIVE FRAMEWORK)<br />
 - [nodejs - typescript - nestjs - express adapter (default)](https://github.com/EKI-INDRADI/eki-latihan-nestjs-http-module-rxjs-8) | FIX HTTP MODULE DEPRECATED - USING RXJS 7+
 
 BACKEND NODEJS EXPRESSJS<br />
-- [nodejs - expressjs - mongodb - rabbitmq](eki-latihan-express-mongodb-jwt-role) | PROJECT - POINT OF SALE - SCALABLE & OPTIMIZE (CLUSTER,CHILD PROCESS) - EVENT DRIVEN/MESSAGE BROKER<br />
-- [nodejs - expressjs - rabbitmq](eki-latihan-express-scalable-and-optimize) | RND - SCALABLE & OPTIMIZE (CLUSTER,CHILD PROCESS) - EVENT DRIVEN/MESSAGE BROKER<br />
-- [nodejs - expressjs - nestjs - postgresql](https://github.com/EKI-INDRADI/elevenia-api-expressjs-nestjs-postgresql) | PROJECT - POINT OF SALE - ELEVENIA API<br />
-- [nodejs - expressjs - angular](https://github.com/EKI-INDRADI/expressjs-angular-20220703) | TEST 20220703<br />
+- [nodejs - javascript (commonjs) - expressjs - mongodb - rabbitmq](eki-latihan-express-mongodb-jwt-role) | PROJECT - POINT OF SALE - SCALABLE & OPTIMIZE (CLUSTER,CHILD PROCESS) - EVENT DRIVEN/MESSAGE BROKER<br />
+- [nodejs - javascript (commonjs) - expressjs - rabbitmq](eki-latihan-express-scalable-and-optimize) | RND - SCALABLE & OPTIMIZE (CLUSTER,CHILD PROCESS) - EVENT DRIVEN/MESSAGE BROKER<br />
+- [nodejs - javascript (commonjs) - expressjs - nestjs - postgresql](https://github.com/EKI-INDRADI/elevenia-api-expressjs-nestjs-postgresql) | PROJECT - POINT OF SALE - ELEVENIA API<br />
+- [nodejs - javascript (commonjs) - expressjs - angular](https://github.com/EKI-INDRADI/expressjs-angular-20220703) | TEST 20220703<br />
+
+BACKEND NODEJS LOOPBACK (loopback query makes SQL like NoSQL flavor)<br />
+- [nodejs - typescript - loopback](https://github.com/EKI-INDRADI/eki-latihan-lb4-jwt) | COURSE LOOBACK 4<br />
+- [nodejs - javascript (module) - loopback - angular](https://github.com/EKI-INDRADI/eki-latihan-lb4-jwt) | FULLSTACK TEST LOOPBACK 3 & ANGULAR<br />
 
 BACKEND NODEJS UNIT TEST<br />
 - [nodejs - javascript (commonjs) - unit test](https://github.com/EKI-INDRADI/eki-latihan-nodejs-unit-test-javascript-commonjs)<br />
@@ -70,13 +75,13 @@ BACKEND GOLANG<br />
 
 BACKEND PYTHON<br />
 - [python - basic](https://github.com/EKI-INDRADI/eki-latihan-python/tree/master/latihan_python_basic)<br />
-
-BACKEND PYTHON FLASK<br />
 - [python - flask - mysql](https://github.com/EKI-INDRADI/eki-latihan-python/tree/master/latihan_python_restful_api/python-restful-api-mysql)<br />
 - [python - flask - sqlite](https://github.com/EKI-INDRADI/eki-latihan-python/tree/master/latihan_python_restful_api/python-restful-api-sqlite)<br />
 
 FRONTEND NODEJS ANGULAR<br />
-- STILL UPDATING . . . . [search "eki-latihan angular"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-latihan+angular&type=&language=&sort=) & [search "eki-rnd angular"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-rnd+angular&type=&language=&sort=)<br />
+- [nodejs - typescript - angular](https://github.com/EKI-INDRADI/angular-9) | FRONTEND TEST ANGULAR<br />
+- [nodejs - typescript - angular - expressjs](https://github.com/EKI-INDRADI/expressjs-angular-20220703) | FULLSTACK TEST ANGULAR & EXPRESSJS<br />
+- [nodejs - typescript - angular - loopback](https://github.com/EKI-INDRADI/BACKEND_FRONTEND_TEST) | FULLSTACK TEST ANGULAR & LOOPBACK<br />
 
 FRONTEND NODEJS SVELTE<br />
 - [nodejs - javascript - svelte - basic - sveltekit](https://github.com/EKI-INDRADI/eki-rnd-svelte-sveltekit-2023) | COURSE BASIC TO MASTER - (SVELTEKIT NEW VERSION)<br />
