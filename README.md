@@ -58,7 +58,7 @@ FRONTEND NODEJS SVELTE<br />
 - [nodejs - typescript - svelte - sveltekit](https://github.com/EKI-INDRADI/eki-latihan-svelte) | PROJECT USER LOGIN - PROTECTED ROUTES (DEPRECATED SVELTEKIT OLD VERSION)<br />
 
 DATABASE & QUERY & TOOLS<br />
-- [vscode - git - nodejs - nestjs - database - mobile](https://github.com/EKI-INDRADI/eki-latihan-vscode-database-client-nodejs-git-on-android)<br/>
+- [vscode - git - nodejs - nestjs - database - mobile](https://github.com/EKI-INDRADI/eki-latihan-vscode-database-client-nodejs-git-on-android) | VSCODE GIT NODEJS DATABASE IN MOBILE PHONE<br/>
 - [nodejs - nvm - windows](https://github.com/EKI-INDRADI/install-multi-nodejs-version-windows) | MULTI NODEJS WINDOWS<br/>
 - [nodejs - nvm - windows](https://github.com/EKI-INDRADI/install-multi-nodejs-version-linux) | MULTI NODEJS LINUX<br/>
 - [java - linux](https://github.com/EKI-INDRADI/eki-latihan-multi-java-ubuntu-server-1804-lts) | MULTI JAVA JRE/JVM/JDK UBUNTU<br/>
