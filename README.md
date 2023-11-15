@@ -30,6 +30,7 @@ BACKEND NODEJS LOOPBACK (loopback query makes SQL like NoSQL flavor)<br />
 
 BACKEND NODEJS<br />
 - [nodejs - typescript - basic](https://github.com/EKI-INDRADI/eki-latihan-typescript)<br />
+- [nodejs](https://github.com/EKI-INDRADI/eki-nodejs-http-server) | NODEJS HTTP SERVER<br />
 - [nodejs - javascript (commonjs) - unit test](https://github.com/EKI-INDRADI/eki-latihan-nodejs-unit-test-javascript-commonjs)<br />
 - [nodejs - javascript (module) - unit test](https://github.com/EKI-INDRADI/eki-latihan-nodejs-unit-test-javascript-module)<br />
 - [nodejs - typescript - unit test](https://github.com/EKI-INDRADI/eki-latihan-nodejs-unit-test-typescript)<br />
@@ -57,6 +58,10 @@ FRONTEND NODEJS SVELTE<br />
 - [nodejs - typescript - svelte - sveltekit](https://github.com/EKI-INDRADI/eki-latihan-svelte) | PROJECT USER LOGIN - PROTECTED ROUTES (DEPRECATED SVELTEKIT OLD VERSION)<br />
 
 DATABASE & QUERY & TOOLS<br />
+- [vscode - git - nodejs - nestjs - database - mobile](https://github.com/EKI-INDRADI/eki-latihan-vscode-database-client-nodejs-git-on-android)<br/>
+- [nodejs - nvm - windows](https://github.com/EKI-INDRADI/install-multi-nodejs-version-windows) | MULTI NODEJS WINDOWS<br/>
+- [nodejs - nvm - windows](https://github.com/EKI-INDRADI/install-multi-nodejs-version-linux) | MULTI NODEJS LINUX<br/>
+- [nodejs](https://github.com/EKI-INDRADI/nodejs-update-linux) | NODEJS ALTERNATIVE<br/>
 - [docker - portable](https://github.com/EKI-INDRADI/eki-latihan-vm-alpine-docker-portable)<br />
 - [docker - phpmyadmin - mariadb](https://github.com/EKI-INDRADI/eki-latihan-docker-phpmyadmin-mariadb)<br />
 - [docker - postgresql](https://github.com/EKI-INDRADI/eki-latihan-docker-postgresql)<br />
