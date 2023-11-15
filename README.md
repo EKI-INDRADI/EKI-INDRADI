@@ -28,7 +28,8 @@ BACKEND NODEJS LOOPBACK (loopback query makes SQL like NoSQL flavor)<br />
 - [nodejs - typescript - loopback](https://github.com/EKI-INDRADI/eki-latihan-lb4-jwt) | COURSE LOOBACK 4<br />
 - [nodejs - javascript (module) - loopback - angular](https://github.com/EKI-INDRADI/eki-latihan-lb4-jwt) | FULLSTACK TEST LOOPBACK 3 & ANGULAR<br />
 
-BACKEND NODEJS UNIT TEST<br />
+BACKEND NODEJS<br />
+- [nodejs - typescript - basic](https://github.com/EKI-INDRADI/eki-latihan-typescript)<br />
 - [nodejs - javascript (commonjs) - unit test](https://github.com/EKI-INDRADI/eki-latihan-nodejs-unit-test-javascript-commonjs)<br />
 - [nodejs - javascript (module) - unit test](https://github.com/EKI-INDRADI/eki-latihan-nodejs-unit-test-javascript-module)<br />
 - [nodejs - typescript - unit test](https://github.com/EKI-INDRADI/eki-latihan-nodejs-unit-test-typescript)<br />
