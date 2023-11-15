@@ -61,6 +61,7 @@ DATABASE & QUERY & TOOLS<br />
 - [vscode - git - nodejs - nestjs - database - mobile](https://github.com/EKI-INDRADI/eki-latihan-vscode-database-client-nodejs-git-on-android)<br/>
 - [nodejs - nvm - windows](https://github.com/EKI-INDRADI/install-multi-nodejs-version-windows) | MULTI NODEJS WINDOWS<br/>
 - [nodejs - nvm - windows](https://github.com/EKI-INDRADI/install-multi-nodejs-version-linux) | MULTI NODEJS LINUX<br/>
+- [java - linux](https://github.com/EKI-INDRADI/eki-latihan-multi-java-ubuntu-server-1804-lts) | MULTI JAVA JRE/JVM/JDK UBUNTU<br/>
 - [nodejs](https://github.com/EKI-INDRADI/nodejs-update-linux) | NODEJS ALTERNATIVE<br/>
 - [docker - portable](https://github.com/EKI-INDRADI/eki-latihan-vm-alpine-docker-portable)<br />
 - [docker - phpmyadmin - mariadb](https://github.com/EKI-INDRADI/eki-latihan-docker-phpmyadmin-mariadb)<br />
