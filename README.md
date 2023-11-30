@@ -52,7 +52,8 @@ FRONTEND NODEJS ANGULAR<br />
 
 FRONTEND NODEJS SVELTE<br />
 - [nodejs - javascript - svelte - basic - sveltekit](https://github.com/EKI-INDRADI/eki-rnd-svelte-sveltekit-2023) | COURSE BASIC TO MASTER - (SVELTEKIT NEW VERSION)<br />
-- [nodejs - javascript - svelte - basic - sveltekit](https://github.com/EKI-INDRADI/mtg-counter-deploy) | COURSE BASIC TO MASTER - (SVELTEKIT NEW VERSION) - DEPLOY vercel.com<br />
+- [nodejs - javascript - svelte - basic - sveltekit](https://github.com/EKI-INDRADI/mtg-counter-deploy) | COURSE BASIC TO MASTER - (SVELTEKIT NEW VERSION) - DEPLOY mtg-counter-deploy vercel.com<br />
+- [nodejs - javascript - svelte - basic - sveltekit](https://github.com/EKI-INDRADI/personal-site-deploy) | COURSE BASIC TO MASTER - (SVELTEKIT NEW VERSION) - DEPLOY personal-site-deploy vercel.com<br />
 - [nodejs - typescript - svelte - prisma - sveltekit](https://github.com/EKI-INDRADI/eki-rnd-svelte-monolith-crud-sveltekit-prisma) | PROJECT CRUD - (SVELTEKIT NEW VERSION)<br />
 - [nodejs - typescript - svelte - sveltekit](https://github.com/EKI-INDRADI/eki-rnd-svelte-and-sveltekit) | COURSE BOOTCAMP POINT OF SALE (MOVIE) - (DEPRECATED SVELTEKIT OLD VERSION)<br />
 - [nodejs - typescript - svelte - sveltekit](https://github.com/EKI-INDRADI/eki-latihan-svelte) | PROJECT USER LOGIN - PROTECTED ROUTES (DEPRECATED SVELTEKIT OLD VERSION)<br />
