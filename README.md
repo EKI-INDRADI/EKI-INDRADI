@@ -121,10 +121,11 @@ STILL UPDATING . . . . TO MANY
 :white_large_square: ~~Expert Kubernetes -> Senior Devops Engineer~~ [PENDING]<br />
 :white_check_mark: learning AI-PROJECT Stable Diffusion - (Lora, Textual Inversions, ControlNet, Dreamboot, Koyha SS, LyCORIS, LoCon, Vae, Checkpoint, inpaintAnything, ReActor/Roop, ComfyUi) [DONE]<br /> 
 :white_check_mark: learning AI-PROJECT Chat - (Vicuna & Alpaca alternative chat-gpt) install in pc server (offline install) [DONE]<br /> 
-:white_check_mark: learning AI-PROJECT Deepfakes - (faceswap,DeepfaceLab,Roop) [DONE]<br /> 
-:white_check_mark: learning AI-PROJECT Video & Image Upscaler - (real-esrgan,esrgan,realsr,srmd,waifu2x,upscayl,video2x,ncnn-vulkan) [DONE]<br /> 
+:white_check_mark: learning AI-PROJECT Deepfakes - (Faceswap,DeepfaceLab,Roop,Facefusion) [DONE]<br /> 
+:white_check_mark: learning AI-PROJECT Video & Image Upscaler - (real-esrgan,esrgan,realsr,srmd,waifu2x,upscayl,video2x,ncnn-vulkan,) [DONE]<br /> 
 :white_check_mark: learning AI-PROJECT Video add more FPS - (flowframes,framegui) [DONE]<br /> 
 :white_check_mark: learning AI-PROJECT removing blur & mosaic from Video & Image - (deep_mosaic,JVP_TG-PLUS,TECOGAN) [DONE]<br /> 
+:white_check_mark: learning AI-PROJECT Image Upscaler/Repair for face - (CodeFormer,FPGAN,GPEN) [DONE]<br /> 
 :white_check_mark: learning AI-PROJECT change the voice & lips sync from video (video-retalking,Wav2Lip) [DONE]<br /> 
 :white_large_square: learning AI - (Jupyter Notebook [DONE], Anaconda [DONE], Tensorflow, Kerras, PyTorch, CUDA, CUDA CUDNN, TENCENT CUDNN) [INPROGGRESS]<br />
 
