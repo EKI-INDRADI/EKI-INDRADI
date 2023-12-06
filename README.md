@@ -1,4 +1,7 @@
 ## EKI INDRADI
+
+"Don't fight the Fed" is a well-known market mantra. The idea is to buy stocks when the Fed is lowering interest rates and sell when the Fed is raising them.
+
 "Berubah ketika mengetahui harus berubah adalah sebuah keterlambatan, kita tidak dapat mengubah arah angin tetapi kita bisa merubah layar kapal untuk mencapai tujuan."
 
 "TIME > KNOWLEDGE > MONEY". #2024_3_DIGIT_MOTIVATION
