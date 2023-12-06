@@ -134,6 +134,7 @@ STILL UPDATING . . . . TO MANY
 :white_check_mark: learning AI-PROJECT removing blur & mosaic from Video & Image - (deep_mosaic,JVP_TG-PLUS,TECOGAN) [DONE]<br /> 
 :white_check_mark: learning AI-PROJECT Image Upscaler/Repair for face - (CodeFormer,GFPGAN,GPEN) [DONE]<br /> 
 :white_check_mark: learning AI-PROJECT change the voice & lips sync from video (video-retalking,Wav2Lip) [DONE]<br /> 
+:white_check_mark: learning AI-PROJECT image to generate animation video - (magic-animate) [DONE]<br /> 
 :white_large_square: learning AI - (Jupyter Notebook [DONE], Anaconda [DONE], Tensorflow, Kerras, PyTorch, CUDA, CUDA CUDNN, TENCENT CUDNN) [INPROGGRESS]<br />
 
 ## 2024 Target Plan :
