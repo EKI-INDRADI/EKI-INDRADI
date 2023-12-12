@@ -6,7 +6,6 @@
 
 stocks caption : 
 - "Don't fight the Fed" is a well-known market mantra. The idea is to buy stocks when the Fed is lowering interest rates and sell when the Fed is raising them.
-- buy stocks when Fed is raising them for value investing (when stocks are very cheap & very high support) (ex: covid 2021-2022)
 - https://www.bls.gov/news.release/cpi.toc.htm
 
 ## SELF RND LIST
