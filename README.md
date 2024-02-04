@@ -24,8 +24,8 @@ BACKEND NODEJS NESTJS (BACKEND PROGRESSIVE FRAMEWORK)<br />
 - [nodejs - typescript - nestjs - express adapter (default)](https://github.com/EKI-INDRADI/eki-latihan-nestjs-http-module-rxjs-8) | FIX HTTP MODULE DEPRECATED - USING RXJS 7+
 
 BACKEND NODEJS EXPRESSJS<br />
-- [nodejs - javascript (commonjs) - expressjs - mongodb - rabbitmq](eki-latihan-express-mongodb-jwt-role) | PROJECT - POINT OF SALE - SCALABLE & OPTIMIZE (CLUSTER,CHILD PROCESS) - EVENT DRIVEN/MESSAGE BROKER<br />
-- [nodejs - javascript (commonjs) - expressjs - rabbitmq](eki-latihan-express-scalable-and-optimize) | RND - SCALABLE & OPTIMIZE (CLUSTER,CHILD PROCESS) - EVENT DRIVEN/MESSAGE BROKER<br />
+- [nodejs - javascript (commonjs) - expressjs - mongodb - rabbitmq](https://github.com/EKI-INDRADI/eki-latihan-express-mongodb-jwt-role) | PROJECT - POINT OF SALE - SCALABLE & OPTIMIZE (CLUSTER,CHILD PROCESS) - EVENT DRIVEN/MESSAGE BROKER<br />
+- [nodejs - javascript (commonjs) - expressjs - rabbitmq](https://github.com/EKI-INDRADI/eki-latihan-express-scalable-and-optimize) | RND - SCALABLE & OPTIMIZE (CLUSTER,CHILD PROCESS) - EVENT DRIVEN/MESSAGE BROKER<br />
 - [nodejs - javascript (commonjs) - expressjs - nestjs - postgresql](https://github.com/EKI-INDRADI/elevenia-api-expressjs-nestjs-postgresql) | PROJECT - POINT OF SALE - ELEVENIA API<br />
 - [nodejs - javascript (commonjs) - expressjs - angular](https://github.com/EKI-INDRADI/expressjs-angular-20220703) | TEST 20220703<br />
 
