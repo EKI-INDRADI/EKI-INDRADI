@@ -39,6 +39,7 @@ BACKEND NODEJS<br />
 - [nodejs - javascript (commonjs) - unit test](https://github.com/EKI-INDRADI/eki-latihan-nodejs-unit-test-javascript-commonjs)<br />
 - [nodejs - javascript (module) - unit test](https://github.com/EKI-INDRADI/eki-latihan-nodejs-unit-test-javascript-module)<br />
 - [nodejs - typescript - unit test](https://github.com/EKI-INDRADI/eki-latihan-nodejs-unit-test-typescript)<br />
+- [nodejs](https://github.com/EKI-INDRADI/eki-nodejs-scrap) | NODEJS SCRAP<br />
 
 BACKEND GOLANG<br />
 - [golang - basic](https://github.com/EKI-INDRADI/eki-latihan-golang-dasar) | GOLANG BASIC<br />
@@ -79,7 +80,7 @@ DATABASE & QUERY & TOOLS<br />
 - [mikrotik](https://github.com/EKI-INDRADI/eki-latihan-mikrotik) | MIKROTIK WIFI WEB LOGIN, HAP, LIMIT BANDWITH, BRIDGE, HOTSPOT, FLASH<br />
 - [jenkins](https://github.com/EKI-INDRADI/eki-latihan-jenkins) | JENKINS BASIC<br />
 - [jenkins](https://github.com/EKI-INDRADI/eki-latihan-deploy-jenkins-pipeline/blob/master/Jenkinsfile) | JENKINS PIPELINE BASIC<br />
-
+- [armbian - nas](https://github.com/EKI-INDRADI/eki-latihan-jenkins) | STB HG680P NAS<br />
 
 DOCS STILL UPDATING . . . . [search "eki-latihan"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-latihan&type=&language=&sort=) & [search "eki-rnd"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-rnd&type=&language=&sort=)
 
