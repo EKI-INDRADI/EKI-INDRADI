@@ -57,6 +57,7 @@ FRONTEND NODEJS ANGULAR<br />
 - [nodejs - typescript - angular - loopback](https://github.com/EKI-INDRADI/BACKEND_FRONTEND_TEST) | FULLSTACK TEST ANGULAR & LOOPBACK<br />
 
 FRONTEND NODEJS SVELTE<br />
+- [nodejs - javascript - svelte - basic - sveltekit - firebase](https://github.com/EKI-INDRADI/eki-rnd-svelte-sveltekit-2023-part-2) | COURSE BASIC TO MASTER - (SVELTEKIT NEW VERSION) #2<br />
 - [nodejs - javascript - svelte - basic - sveltekit](https://github.com/EKI-INDRADI/eki-rnd-svelte-sveltekit-2023) | COURSE BASIC TO MASTER - (SVELTEKIT NEW VERSION)<br />
 - [nodejs - javascript - svelte - basic - sveltekit](https://github.com/EKI-INDRADI/mtg-counter-deploy) | COURSE BASIC TO MASTER - (SVELTEKIT NEW VERSION) - DEPLOY https://mtg-counter-deploy.vercel.app<br />
 - [nodejs - javascript - svelte - basic - sveltekit](https://github.com/EKI-INDRADI/personal-site-deploy) | COURSE BASIC TO MASTER - (SVELTEKIT NEW VERSION) - DEPLOY https://personal-site-deploy.vercel.app<br />
