@@ -80,7 +80,7 @@ DATABASE & QUERY & TOOLS<br />
 - [mikrotik](https://github.com/EKI-INDRADI/eki-latihan-mikrotik) | MIKROTIK WIFI WEB LOGIN, HAP, LIMIT BANDWITH, BRIDGE, HOTSPOT, FLASH<br />
 - [jenkins](https://github.com/EKI-INDRADI/eki-latihan-jenkins) | JENKINS BASIC<br />
 - [jenkins](https://github.com/EKI-INDRADI/eki-latihan-deploy-jenkins-pipeline/blob/master/Jenkinsfile) | JENKINS PIPELINE BASIC<br />
-- [armbian - nas](https://github.com/EKI-INDRADI/eki-latihan-jenkins) | STB HG680P NAS<br />
+- [armbian - nas][(https://github.com/EKI-INDRADI/STB_HG680P_NAS) | STB HG680P NAS<br />
 
 DOCS STILL UPDATING . . . . [search "eki-latihan"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-latihan&type=&language=&sort=) & [search "eki-rnd"](https://github.com/EKI-INDRADI?tab=repositories&q=eki-rnd&type=&language=&sort=)
 
