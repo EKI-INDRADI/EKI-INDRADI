@@ -130,13 +130,14 @@ STILL UPDATING . . . . TO MANY
 :white_large_square: ~~Expert Kubernetes -> Senior Devops Engineer~~ [PENDING]<br />
 :white_check_mark: learning AI-PROJECT Stable Diffusion - (Lora, Textual Inversions, ControlNet, Dreamboot, Koyha SS, LyCORIS, LoCon, Vae, Checkpoint, inpaintAnything, ReActor/Roop, ComfyUi) [DONE]<br /> 
 :white_check_mark: learning AI-PROJECT Chat - (Vicuna & Alpaca alternative chat-gpt) install in pc server (offline install) [DONE]<br /> 
-:white_check_mark: learning AI-PROJECT Deepfakes - (Faceswap,DeepfaceLab,Roop,Facefusion) [DONE]<br /> 
-:white_check_mark: learning AI-PROJECT Video & Image Upscaler - (real-esrgan,esrgan,realsr,srmd,waifu2x,upscayl,video2x,ncnn-vulkan,) [DONE]<br /> 
+:white_check_mark: learning AI-PROJECT Deepfakes - (Faceswap,DeepfaceLab,[Roop](https://github.com/EKI-INDRADI/roop-tested-unlock-20230916),[facefusion](https://github.com/EKI-INDRADI/facefusion_rnd_20231129_freedom_dont_be_evil)) [DONE]<br /> 
+:white_check_mark: learning AI-PROJECT Video & Image Upscaler - ([real-esrgan](https://github.com/EKI-INDRADI/IMAGE_VIDEO_real-ESRGAN-ncnn-vulkan_WITH_AUTOMATION_tested_20231105),esrgan,realsr,srmd,waifu2x,upscayl,video2x,ncnn-vulkan) [DONE]<br /> 
 :white_check_mark: learning AI-PROJECT Video add more FPS - (flowframes,framegui) [DONE]<br /> 
-:white_check_mark: learning AI-PROJECT removing blur & mosaic from Video & Image - (deep_mosaic,JVP_TG-PLUS,TECOGAN) [DONE]<br /> 
+:white_check_mark: learning AI-PROJECT removing blur & mosaic from Video & Image - ([deep_mosaic](https://github.com/EKI-INDRADI/DeepMosaics_tested_20231105),[JVP_TG-PLUS](https://github.com/EKI-INDRADI/JVP_TG-PLUS),[TECOGAN](https://github.com/EKI-INDRADI/mosaic_remove_TecoGAN)) [DONE]<br /> 
 :white_check_mark: learning AI-PROJECT Image Upscaler/Repair for face - (CodeFormer,GFPGAN,GPEN) [DONE]<br /> 
-:white_check_mark: learning AI-PROJECT change the voice & lips sync from video (video-retalking,Wav2Lip) [DONE]<br /> 
-:white_check_mark: learning AI-PROJECT image to generate animation video - (magic-animate) [DONE]<br /> 
+:white_check_mark: learning AI-PROJECT change the voice & lips sync from video ([video-retalking](https://github.com/EKI-INDRADI/video-retalking-tested-20231020),Wav2Lip,[facefusion](https://github.com/EKI-INDRADI/facefusion_rnd_20231129_freedom_dont_be_evil)) [DONE]<br /> 
+:white_check_mark: learning AI-PROJECT image to generate animation video - ([magic-animate](https://github.com/EKI-INDRADI/magic-animate-for-windows-rnd-20231206), [UniAnimate](https://github.com/EKI-INDRADI/UniAnimate), animateAyone) [DONE]<br /> 
+:white_check_mark: learning AI-PROJECT removing background image & video - (BRIA_AI, [nodejs](https://github.com/EKI-INDRADI/eki-nodejs-scrap)  ) [DONE]<br /> 
 :white_large_square: learning AI - (Jupyter Notebook [DONE], Anaconda [DONE], Tensorflow, Kerras, PyTorch, CUDA, CUDA CUDNN, TENCENT CUDNN) [INPROGGRESS]<br />
 
 ## 2024 Target Plan :
