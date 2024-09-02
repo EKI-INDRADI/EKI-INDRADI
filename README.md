@@ -127,7 +127,7 @@ STILL UPDATING . . . . TO MANY
 
 :white_check_mark: Expert Backend - NestJS (Express & Fastify Adapter) - Auto Validation (Nested validation Array/Object/Schema/Enitity), Unit Test, Auto Generate Swagger, Hexagonal Architecture (Multi Database Sql & NoSql with same Schema -> Entity Support, Multi framework ExpressJs & Fastify Adapter), Micro services (Orchestration) Architecture, Micro services (Choreography - RabbitMQ - Exchange - RoutingKey) Architecture [DONE]<br />
 :white_square_button: Expert Frontend - (CSS,SASS,TAILWIND), SVELTE, SVELTE KIT, SINGLE-SPA/LUIGI MICRO FRONTEND -> Fullstack Engineer [INPROGGRESS]<br />
-:white_large_square: ~~Expert Kubernetes -> Senior Devops Engineer~~ [PENDING]<br />
+:white_large_square: Expert [Kubernetes](https://github.com/EKI-INDRADI/eki-rnd-kubernetes-2024) [DONE]<br />
 :white_check_mark: learning AI-PROJECT [Stable Diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - (Lora, Textual Inversions, ControlNet, Dreamboot, Koyha SS, LyCORIS, LoCon, Vae, Checkpoint, inpaintAnything, ReActor/Roop, ComfyUi) [DONE]<br /> 
 :white_check_mark: learning AI-PROJECT Chat - [Vicuna & Alpaca alternative chat-gpt install in pc server, offline install](https://github.com/EKI-INDRADI/eki-install-chat-gpt4-offline-vicuna-alpaca) [DONE]<br /> 
 :white_check_mark: learning AI-PROJECT Deepfakes - ([Faceswap](https://github.com/deepfakes/faceswap),[DeepfaceLab](https://github.com/iperov/DeepFaceLab),[Roop](https://github.com/EKI-INDRADI/roop-tested-unlock-20230916),[facefusion](https://github.com/EKI-INDRADI/facefusion_rnd_20231129_freedom_dont_be_evil)) [DONE]<br /> 
