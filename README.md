@@ -66,8 +66,13 @@ FRONTEND NODEJS SVELTE<br />
 - [nodejs - typescript - svelte - sveltekit](https://github.com/EKI-INDRADI/eki-latihan-svelte) | PROJECT USER LOGIN - PROTECTED ROUTES (DEPRECATED SVELTEKIT OLD VERSION)<br />
 
 KUBERNETES / K8S <br />
+
+service list : minikube,node,pod,label,annotation,namespace,probe,replication_controller,replicaset,daemon_set,job,cronjob,node_selector,all,service,service_node_port,service_load_balancer,service_ingress,multi_container_pod,volume,sharing_volume,config_map,secret,downward_api, manage_kuberentes_object,deployment,rollback_deployment,persistent_volume,statefulset,kubernetes_dashboard,computational_resource,vertical_horizontal_pod_autoscaler, add_node_or_worker,kubernetes_cluster_on_vm
+
 - [minikube (1 node/worker) + kubectl on AWS EC2/AWS Lightsail/Azure VM/local Virtual Machine](#) [PRIVATE, BECAUSE SENSITIVE DATA]
 - [kubeadm + kubelet + multi node/worker + kubectl on AWS EC2/AWS Lightsail/Azure VM/local Virtual Machine](#) [PRIVATE] [PRIVATE, BECAUSE SENSITIVE DATA]
+  
+
 
 DATABASE & QUERY & TOOLS<br />
 - [vscode - git - nodejs - nestjs - database - mobile](https://github.com/EKI-INDRADI/eki-latihan-vscode-database-client-nodejs-git-on-android) | VSCODE GIT NODEJS DATABASE IN MOBILE PHONE<br/>
