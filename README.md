@@ -65,6 +65,10 @@ FRONTEND NODEJS SVELTE<br />
 - [nodejs - typescript - svelte - sveltekit](https://github.com/EKI-INDRADI/eki-rnd-svelte-and-sveltekit) | COURSE BOOTCAMP POINT OF SALE (MOVIE) - (DEPRECATED SVELTEKIT OLD VERSION)<br />
 - [nodejs - typescript - svelte - sveltekit](https://github.com/EKI-INDRADI/eki-latihan-svelte) | PROJECT USER LOGIN - PROTECTED ROUTES (DEPRECATED SVELTEKIT OLD VERSION)<br />
 
+KUBERNETES / K8S <br />
+- [minikube (1 node/worker) + kubectl on AWS EC2/AWS Lightsail/Azure VM/local Virtual Machine](#) [PRIVATE, BECAUSE SENSITIVE DATA]
+- [kubeadm + kubelet + multi node/worker + kubectl on AWS EC2/AWS Lightsail/Azure VM/local Virtual Machine](#) [PRIVATE] [PRIVATE, BECAUSE SENSITIVE DATA]
+
 DATABASE & QUERY & TOOLS<br />
 - [vscode - git - nodejs - nestjs - database - mobile](https://github.com/EKI-INDRADI/eki-latihan-vscode-database-client-nodejs-git-on-android) | VSCODE GIT NODEJS DATABASE IN MOBILE PHONE<br/>
 - [nodejs - nvm - windows](https://github.com/EKI-INDRADI/install-multi-nodejs-version-windows) | MULTI NODEJS WINDOWS<br/>
